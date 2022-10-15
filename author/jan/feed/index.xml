@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jan, Author at The Technoburst</title>
+	<atom:link href="/author/jan/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/jan/</link>
+	<description>PC Building Guides and computer components reviews</description>
+	<lastBuildDate>Wed, 12 May 2021 05:54:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/cropped-technoburst-icon-rounded-32x32.png</url>
+	<title>jan, Author at The Technoburst</title>
+	<link>/author/jan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Asus ROG Strix RTX 3070 8GB OC Gaming Review</title>
+		<link>/asus-rog-strix-rtx-3070-8gb-oc-gaming-review/</link>
+					<comments>/asus-rog-strix-rtx-3070-8gb-oc-gaming-review/#respond</comments>
+		
+		<dc:creator><![CDATA[jan]]></dc:creator>
+		<pubDate>Tue, 11 May 2021 20:42:40 +0000</pubDate>
+				<category><![CDATA[PC Components]]></category>
+		<guid isPermaLink="false">/?p=2467</guid>
+
+					<description><![CDATA[1. Introduction What makes me write this Asus ROG 3070 review? Well, I would not name myself a hardcore gamer, but from time to time, I find some game that makes me forget about everything else. But my old good Radeon RX 580 video card started to disappoint me. Lags in big fights, freezing, 100% [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 id="h-1-introduction">1. Introduction</h2>
+
+
+
+<p>What makes me write this Asus ROG 3070 review? Well, I would not name myself a hardcore gamer, but from time to time, I find some game that makes me forget about everything else. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img width="655" height="262" src="/wp-content/uploads/2021/05/image-6.png" alt="steam screenshot" class="wp-image-2474" srcset="/wp-content/uploads/2021/05/image-6.png 655w, /wp-content/uploads/2021/05/image-6-300x120.png 300w" sizes="(max-width: 655px) 100vw, 655px" /><figcaption>I believe it took me 1.5 week of non-stop gaming</figcaption></figure></div>
+
+
+
+<p>But my old good Radeon RX 580 video card started to disappoint me. Lags in big fights, freezing, 100% fans&#8230; So I decided to upgrade my PC, most importantly &#8211; upgrade GPU. </p>
+
+
+
+<p>Since I usually upgrade PC once 5 years, the decision was set to buy top tier, latest generation Nvidia GPU flagman &#8211; RTX 3080 or 3090. As marketers say, &#8220;You deserve it!&#8221; <em>( translate &#8211; take that most expensive thing you barely need).</em> </p>
+
+
+
+<p>To be honest, I just was so tired of freezes that I don&#8217;t want to see it at least for 2-3 years, better never again.</p>
+
+
+
+<p><span class="has-inline-color has-luminous-vivid-orange-color">But reality prepared surprise for me&#8230;</span></p>
+
+
+
+<h2 id="h-2-miners-and-gpu-shortage">2. Miners and GPU shortage</h2>
+
+
+
+<p>What I didn&#8217;t expect, you can&#8217;t really buy a good card on amazon now.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="611" src="/wp-content/uploads/2021/05/image-1-1024x611.png" alt="RTX 3060 shortage" class="wp-image-2469" srcset="/wp-content/uploads/2021/05/image-1-1024x611.png 1024w, /wp-content/uploads/2021/05/image-1-300x179.png 300w, /wp-content/uploads/2021/05/image-1-768x458.png 768w, /wp-content/uploads/2021/05/image-1-1536x916.png 1536w, /wp-content/uploads/2021/05/image-1-922x550.png 922w, /wp-content/uploads/2021/05/image-1.png 1569w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>No RTX 3060 available on amazon</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="557" src="/wp-content/uploads/2021/05/image-2-1024x557.png" alt="RTX 3070 shortage" class="wp-image-2470" srcset="/wp-content/uploads/2021/05/image-2-1024x557.png 1024w, /wp-content/uploads/2021/05/image-2-300x163.png 300w, /wp-content/uploads/2021/05/image-2-768x418.png 768w, /wp-content/uploads/2021/05/image-2-1536x836.png 1536w, /wp-content/uploads/2021/05/image-2-1000x544.png 1000w, /wp-content/uploads/2021/05/image-2.png 1823w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>No RTX 3070</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="244" src="/wp-content/uploads/2021/05/image-1024x244.png" alt="RTX 3080 shortage" class="wp-image-2468" srcset="/wp-content/uploads/2021/05/image-1024x244.png 1024w, /wp-content/uploads/2021/05/image-300x72.png 300w, /wp-content/uploads/2021/05/image-768x183.png 768w, /wp-content/uploads/2021/05/image-1536x366.png 1536w, /wp-content/uploads/2021/05/image-1000x238.png 1000w, /wp-content/uploads/2021/05/image.png 1808w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>RTX 3080 shortage</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="355" src="/wp-content/uploads/2021/05/image-3-1024x355.png" alt="RTX 3090 shortage" class="wp-image-2471" srcset="/wp-content/uploads/2021/05/image-3-1024x355.png 1024w, /wp-content/uploads/2021/05/image-3-300x104.png 300w, /wp-content/uploads/2021/05/image-3-768x266.png 768w, /wp-content/uploads/2021/05/image-3-1536x533.png 1536w, /wp-content/uploads/2021/05/image-3-1000x347.png 1000w, /wp-content/uploads/2021/05/image-3.png 1603w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Want 3090? Ha-ha</figcaption></figure>
+
+
+
+<p>With hands shaking, I checked my local shops. Success! Cards are there! But the price shocked me&#8230;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="554" src="/wp-content/uploads/2021/05/image-7-1024x554.png" alt="RTX 3080 pricing" class="wp-image-2475" srcset="/wp-content/uploads/2021/05/image-7-1024x554.png 1024w, /wp-content/uploads/2021/05/image-7-300x162.png 300w, /wp-content/uploads/2021/05/image-7-768x415.png 768w, /wp-content/uploads/2021/05/image-7-1000x541.png 1000w, /wp-content/uploads/2021/05/image-7.png 1237w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><span class="has-inline-color has-vivid-red-color">2820 euro for a RTX 3080??</span></figcaption></figure>
+
+
+
+<p>In my local shops, with an&nbsp;<strong>MSRP&nbsp;of $749</strong>, the&nbsp;MSI <strong>RTX 3080&nbsp;cost $3,434</strong> ( €2820). Which is 10 times more than I paid for my RX 580 back in the days.</p>
+
+
+
+<p><span class="has-inline-color has-luminous-vivid-orange-color">Who the hell would buy a video card of the price of a used car?</span></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="558" height="494" src="/wp-content/uploads/2021/05/image-9.png" alt="Price of RTX 3080 equal to old car" class="wp-image-2477" srcset="/wp-content/uploads/2021/05/image-9.png 558w, /wp-content/uploads/2021/05/image-9-300x266.png 300w" sizes="(max-width: 558px) 100vw, 558px" /><figcaption>Toyota Corolla or new graphic card?</figcaption></figure></div>
+
+
+
+<p>Definitely, not me. But why it happened? The answer is simple &#8211; Bitcoin. That crypto giant just jumped up to $60 000 for 1 BTC.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="880" height="667" src="/wp-content/uploads/2021/05/image-10.png" alt="Bitcoin price chart" class="wp-image-2478" srcset="/wp-content/uploads/2021/05/image-10.png 880w, /wp-content/uploads/2021/05/image-10-300x227.png 300w, /wp-content/uploads/2021/05/image-10-768x582.png 768w, /wp-content/uploads/2021/05/image-10-726x550.png 726w" sizes="(max-width: 880px) 100vw, 880px" /></figure>
+
+
+
+<p>All make sense now. Who wouldn&#8217;t buy a 3080 for $749 if mining would cover the cost of GPU in less than 2 months? <em>( 51 days, to be precise)</em></p>
+
+
+
+<p>Here is GPU mining profitability information from <a href="https://www.nicehash.com/" target="_blank" rel="noreferrer noopener">https://www.nicehash.com/</a>:</p>
+
+
+
+<figure class="wp-block-table specs table table-hover"><table><tbody><tr><td>MODEL</td><td>NET PROFIT</td></tr><tr><td>&nbsp;NVIDIA RTX 3090</td><td>18.23&nbsp;USD/day</td></tr><tr><td>&nbsp;NVIDIA RTX 3080</td><td>14.60&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD Radeon VII</td><td>13.68&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD RX 6800 XT 16GB</td><td>9.72&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD RX 6900 XT 16GB</td><td>9.64&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD RX 6800 16GB</td><td>9.61&nbsp;USD/day</td></tr><tr><td>&nbsp;NVIDIA RTX 3060 Ti</td><td>9.20&nbsp;USD/day</td></tr><tr><td>&nbsp;NVIDIA RTX 3070</td><td>9.19&nbsp;USD/day</td></tr><tr><td>&nbsp;NVIDIA RTX 2080 Ti</td><td>9.00&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD RX 5700 XT 8GB</td><td>8.30&nbsp;USD/day</td></tr><tr><td>&nbsp;AMD RX 5700 8GB</td><td>8.11&nbsp;USD/day</td></tr><tr><td>&nbsp;NVIDIA RTX 3060</td><td>7.45&nbsp;USD/day</td></tr></tbody></table><figcaption>Top graphic cards mining profitability</figcaption></figure>
+
+
+
+<p>The happy owners of Nvidia RTX 3090 can earn <strong>$565 monthly</strong> on mining, with an MSRP price of <strong>$1,499</strong>. Of course, miners bought all available flagman cards. </p>
+
+
+
+<p>I decided to lower my appetite and find RTX 3070 for the <strong>lowest possible price.</strong></p>
+
+
+
+<h3 id="h-asus-rog-rtx-3070-pricing">Asus ROG RTX 3070 pricing</h3>
+
+
+
+<p>The MSRP price of RTX 3070 card is just <strong>$499</strong>, but due to miners real price is x2.5 of MSRP.</p>
+
+
+
+<p>The MSRP price of exactly Asus ROG RTX 3070 8GB OC Gaming is <strong>$634</strong>.</p>
+
+
+
+<p>Here are March 2021 stats from <a href="https://www.theverge.com/" target="_blank" rel="noreferrer noopener">https://www.theverge.com/</a></p>
+
+
+
+<figure class="wp-block-table specs table table-hover"><table><thead><tr><th>Item</th><th>Retail price</th><th>Street price (Dec 2020)</th><th>Street price (Mar 2021)</th><th>Current value</th></tr></thead><tbody><tr><td>Nvidia RTX 3090</td><td>$1,499</td><td>$2,076</td><td><strong>$2,985</strong></td><td>1.99x</td></tr><tr><td>Nvidia RTX 3080</td><td>$699</td><td>$1,227</td><td><strong>$2,160</strong></td><td>3.09x</td></tr><tr><td>Nvidia RTX 3070</td><td>$499</td><td>$819</td><td><strong>$1,239</strong></td><td>2.48x</td></tr><tr><td>Nvidia RTX 3060 Ti</td><td>$399</td><td>$675</td><td><strong>$1,226</strong></td><td>3.07x</td></tr><tr><td>Nvidia RTX 3060</td><td>$329</td><td>N/A</td><td><strong>$828</strong></td><td>2.5x</td></tr><tr><td>AMD RX 6900 XT</td><td>$999</td><td>Did not check</td><td><strong>$1,841</strong></td><td>1.84x</td></tr><tr><td>AMD RX 6800 XT</td><td>$649</td><td>$1,232</td><td><strong>$1,555</strong></td><td>2.4x</td></tr><tr><td>AMD RX 6800</td><td>$579</td><td>$841</td><td><strong>$1,331</strong></td><td>2.3x</td></tr><tr><td>AMD RX 6700 XT</td><td>$479</td><td>N/A</td><td><strong>$1,169</strong></td><td>2.4x</td></tr><tr><td>PS5 (disc)</td><td>$499</td><td>$1,024</td><td><strong>$833</strong></td><td>1.66x</td></tr><tr><td>PS5 (digital)</td><td>$399</td><td>$990</td><td><strong>$754</strong></td><td>1.88x</td></tr><tr><td>Xbox Series X</td><td>$499</td><td>$835</td><td><strong>$805</strong></td><td>1.61x</td></tr><tr><td>Xbox Series S</td><td>$299</td><td>$471</td><td><strong>$432</strong></td><td>1.45x</td></tr></tbody><tfoot><tr></tr></tfoot></table></figure>
+
+
+
+<p>After a few days of searching, I found a guy who delivers cards from Finland where honest shop owners try to keep prices low, giving only 1 card per person, avoiding re-sellers. For the exchange, we met outside of the city, almost in the forest, like real smugglers.</p>
+
+
+
+<p>Finally,  and I became a proud owner of Asus ROG Strix RTX 3070 8GB OC Gaming for &#8220;just&#8221; <strong>$1520</strong> ( €1250). I decided that as owner of TechnoBurst, I just have to make a Asus RTX 3070 Review</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="576" height="1024" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-finally-mine-576x1024.jpg" alt="Asus Rog 3070 Strix" class="wp-image-2479" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-finally-mine-576x1024.jpg 576w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-finally-mine-169x300.jpg 169w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-finally-mine-309x550.jpg 309w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-finally-mine.jpg 675w" sizes="(max-width: 576px) 100vw, 576px" /></figure></div>
+
+
+
+<h2 id="h-3-asus-rog-3070-strix-8gb-oc-specs">3. Asus Rog 3070 Strix 8GB OC Specs</h2>
+
+
+
+<h3 id="h-tech-specs">Tech specs</h3>
+
+
+
+<p>Technical specs from <a href="https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3070-o8g-gaming-model/spec" target="_blank" rel="noreferrer noopener">Asus official website</a>:</p>
+
+
+
+<figure class="wp-block-table specs table table-hover"><table><tbody><tr><td>Graphic Engine</td><td>NVIDIA® GeForce RTX<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 3070</td></tr><tr><td>Bus Standard</td><td>PCI Express 4.0</td></tr><tr><td>OpenGL</td><td>OpenGL®4.6</td></tr><tr><td>Video Memory</td><td>8GB GDDR6</td></tr><tr><td>Engine Clock</td><td>OC Mode &#8211; 1935 MHz (Boost Clock) Gaming Mode &#8211; 1905 MHz (Boost Clock)&nbsp;</td></tr><tr><td>CUDA Core</td><td>5888</td></tr><tr><td>Memory Speed</td><td>14 Gbps</td></tr><tr><td>Memory Interface</td><td>256-bit</td></tr><tr><td>Resolution</td><td>Digital Max Resolution 7680 x 4320</td></tr><tr><td>Interface</td><td><br>Yes x 2 (Native HDMI 2.1)<br>Yes x 3 (Native DisplayPort 1.4a)<br>HDCP Support Yes (2.3)</td></tr><tr><td>Maximum Display Support</td><td>4</td></tr><tr><td>NVlink/ Crossfire Support</td><td>No</td></tr><tr><td>Accessories</td><td>1 x ROG Velcro Hook &amp; Loop <br>1 x ROG ruler <br>1 x Collection card <br>1 x Speedsetup manual</td></tr><tr><td>Software</td><td>ASUS GPU Tweak II &amp; GeForce Game Ready Driver &amp; Studio Driver: please download all software from the support site.</td></tr><tr><td>Dimensions</td><td>12.53 &#8221; x 5.51 &#8221; x 2.27 &#8221; Inch <br>31.85 x 14.01 x 5.78 Centimeter</td></tr><tr><td>Recommended PSU</td><td>*750W</td></tr><tr><td>Power Connectors</td><td>2 x 8-pin</td></tr><tr><td>Slot</td><td>2.9 Slot</td></tr></tbody></table><figcaption>*Asus set recommended PSU with overclocking in mind. I have this card installed on an old PC with just 500W and it works in games just fine.</figcaption></figure>
+
+
+
+<h3 id="h-marketing-features">Marketing features</h3>
+
+
+
+<p>Asus claim Rog Strix RTX 3070 has these features:</p>
+
+
+
+<ul><li>NVIDIA Ampere Streaming Multiprocessors</li><li>2nd Generation RT Cores</li><li>3rd Generation Tensor Cores</li><li>Axial-tech Fan Design</li><li>2.9-slot design&nbsp;</li><li>Super Alloy Power II&nbsp;</li><li>GPU Tweak II</li></ul>
+
+
+
+<p>More details on images below.</p>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-1024x572.png"><img loading="lazy" width="1024" height="572" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-1024x572.png" alt="" data-id="2481" data-link="/?attachment_id=2481" class="wp-image-2481" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-1024x572.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-300x168.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-768x429.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1-984x550.png 984w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-overview-1.png 1380w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-1024x418.png"><img loading="lazy" width="1024" height="418" src="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-1024x418.png" alt="" data-id="2482" data-link="/?attachment_id=2482" class="wp-image-2482" srcset="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-1024x418.png 1024w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-300x122.png 300w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-768x313.png 768w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2-1000x408.png 1000w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-AXIAL-TECH-UPGRADES-2.png 1333w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-1024x494.png"><img loading="lazy" width="1024" height="494" src="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-1024x494.png" alt="" data-id="2483" data-link="/?attachment_id=2483" class="wp-image-2483" srcset="/wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-1024x494.png 1024w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-300x145.png 300w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-768x371.png 768w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3-1000x483.png 1000w, /wp-content/uploads/2021/05/asus-3070-Strix-OC-fans-new-directions-3.png 1293w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-1024x403.png"><img loading="lazy" width="1024" height="403" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-1024x403.png" alt="" data-id="2484" data-link="/?attachment_id=2484" class="wp-image-2484" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-1024x403.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-300x118.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-768x302.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-1536x605.png 1536w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4-1000x394.png 1000w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-_4.png 1791w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-1024x463.png"><img loading="lazy" width="1024" height="463" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-1024x463.png" alt="Asus 3070 Strix Oc 5" data-id="2486" data-link="/?attachment_id=2486" class="wp-image-2486" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-1024x463.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-300x136.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-768x347.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-1536x694.png 1536w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-5-1000x452.png 1000w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-5.png 1708w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-1024x637.png"><img loading="lazy" width="1024" height="637" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-1024x637.png" alt="Asus 3070 Strix Oc 6" data-id="2487" data-link="/?attachment_id=2487" class="wp-image-2487" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-1024x637.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-300x187.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-768x478.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-6-883x550.png 883w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-6.png 1224w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-1024x636.png"><img loading="lazy" width="1024" height="636" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-1024x636.png" alt="Asus 3070 Strix Oc 7" data-id="2488" data-link="/?attachment_id=2488" class="wp-image-2488" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-1024x636.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-300x186.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-768x477.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-7-885x550.png 885w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-7.png 1188w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-1024x714.png"><img loading="lazy" width="1024" height="714" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-1024x714.png" alt="Asus 3070 Strix Oc 9" data-id="2489" data-link="/?attachment_id=2489" class="wp-image-2489" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-1024x714.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-300x209.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-768x535.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-9-789x550.png 789w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-9.png 1184w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-1024x846.png"><img loading="lazy" width="1024" height="846" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-1024x846.png" alt="Asus 3070 Strix Oc 8" data-id="2490" data-link="/?attachment_id=2490" class="wp-image-2490" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-1024x846.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-300x248.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-768x635.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-8-665x550.png 665w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-8.png 1096w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-1024x655.png"><img loading="lazy" width="1024" height="655" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-1024x655.png" alt="Asus 3070 Strix Oc 10" data-id="2491" data-link="/?attachment_id=2491" class="wp-image-2491" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-1024x655.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-300x192.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-768x492.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-10-859x550.png 859w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-10.png 1350w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-1024x294.png"><img loading="lazy" width="1024" height="294" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-1024x294.png" alt="Asus 3070 Strix Oc 12" data-id="2493" data-link="/?attachment_id=2493" class="wp-image-2493" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-1024x294.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-300x86.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-768x221.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-12-1000x288.png 1000w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-12.png 1231w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1.png"><img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1-1024x683.png" alt="Asus 3070 Strix Oc 11 1" data-id="2495" data-full-url="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1.png" data-link="/?attachment_id=2495" class="wp-image-2495" srcset="/wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1-1024x683.png 1024w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1-300x200.png 300w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1-768x512.png 768w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1-825x550.png 825w, /wp-content/uploads/2021/05/Asus-3070-Strix-OC-11-1.png 1297w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li></ul></figure>
+
+
+
+<h2 id="h-4-asus-rog-3070-strix-oc-detailed-look">4. Asus ROG 3070 Strix OC Detailed Look</h2>
+
+
+
+<p>Lets make some unboxing and see what&#8217;s inside.</p>
+
+
+
+<h3 id="h-package-and-unboxing">Package and unboxing</h3>
+
+
+
+<p>From outside, Asus ROG 3070 box looks pretty much the same as any other brand of Nvidia cards</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Package" class="wp-image-2504" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-package.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Inside we see another box, to me feel and look better.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Box" class="wp-image-2505" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-box.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>In box, there is video card and some accessories.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Open Box 2" class="wp-image-2506" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-open-box-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It&#8217;s known Asus put their coordinates on this straightedge. Now I can find them, if something happens with the device.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Accessories" class="wp-image-2507" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-accessories-e1620652013542.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Asus gaming bracelets and straightedge<br></figcaption></figure>
+
+
+
+<p>What I didn&#8217;t expect &#8211; the size. New-gen GeForce RTX 30 Series graphics cards are huge. Make sure Asus Rog 3070 will fit your PC, here are the dimensions:</p>
+
+
+
+<ul><li>12.53 &#8221; x 5.51 &#8221; x 2.27 &#8221; Inch</li><li>31.85 x 14.01 x 5.78 Centimeter</li></ul>
+
+
+
+<h3 id="h-look-and-size">Look and size</h3>
+
+
+
+<figure class="wp-block-video"><video controls muted src="/wp-content/uploads/2021/05/20210504_180109.mp4"></video></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="527" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2-1024x527.jpg" alt="Asus Rog Strix Rtx 3070 In Hands 2" class="wp-image-2508" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2-1024x527.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2-300x155.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2-768x396.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2-1000x515.jpg 1000w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-hands-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>2 x 8-pin Power Connectors</figcaption></figure>
+
+
+
+<p>Asus ROG card has Q mode / P mode tumbler, which responsible for Quite and Power modes. In silent mode fans have lower RPM.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Side View" class="wp-image-2514" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-side-view-e1620655318884.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Asus ROG 3070 is bigger and heavier than my old MSI 580 RX.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="936" src="/wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size-1024x936.jpg" alt="Msi Radeon Rx 580 Vs Asus Rog Strix Rtx 3070 Size" class="wp-image-2509" srcset="/wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size-1024x936.jpg 1024w, /wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size-300x274.jpg 300w, /wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size-768x702.jpg 768w, /wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size-602x550.jpg 602w, /wp-content/uploads/2021/05/MSI-Radeon-RX-580-vs-Asus-ROG-Strix-RTX-3070-size.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>MSI Radeon RX 580 vs Asus ROG Strix RTX 3070 size comparison</figcaption></figure>
+
+
+
+<h3 id="h-interface">Interface</h3>
+
+
+
+<p>The card has 2 HDMI 2.1 and 3 DisplayPort&nbsp;1.4a inputs, so a total of 5 inputs. However, at the same time, it can handle only 4 monitors.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 Front View" class="wp-image-2510" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-front-view.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 id="h-look-in-pc">Look in PC</h3>
+
+
+
+<p>I was not sure, but 3070 easily fit my old <strong>Mars Gaming MC3 ATX</strong>. Even a few centimeters of extra space left.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 In Pc" class="wp-image-2512" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I ordered new PC, which would be better fir for RTX 3070, but so far I used old one with i5-6500 and 500w PSU. It launched without any problems. I know there is an option to enable different RGB lights, but I will keep this untouched until I get a new PC.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2-1024x576.jpg" alt="Asus Rog Strix Rtx 3070 In Pc 2" class="wp-image-2513" srcset="/wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2-1024x576.jpg 1024w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2-300x169.jpg 300w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2-768x432.jpg 768w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2-978x550.jpg 978w, /wp-content/uploads/2021/05/Asus-ROG-Strix-RTX-3070-in-PC-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="h-5-benchmarks">5. Benchmarks</h2>
+
+
+
+<p><em>Here are some stats of performance benchmarks. </em></p>
+
+
+
+<p>I am actually a bit afraid to load it 100% for benchmarks like 3dmarks, because of 500W PSU, but at least 1 performance test I did:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="748" height="710" src="/wp-content/uploads/2021/05/image-11.png" alt="FurMark OpenGL score" class="wp-image-2518" srcset="/wp-content/uploads/2021/05/image-11.png 748w, /wp-content/uploads/2021/05/image-11-300x285.png 300w, /wp-content/uploads/2021/05/image-11-579x550.png 579w" sizes="(max-width: 748px) 100vw, 748px" /></figure>
+
+
+
+<p>I will test with more apps soon, when I get new PC, but so far just watch results from <a href="https://www.gpu-monkey.com/" target="_blank" rel="noreferrer noopener">https://www.gpu-monkey.com/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="915" height="519" src="/wp-content/uploads/2021/05/image-12.png" alt="FP32 benchmark" class="wp-image-2519" srcset="/wp-content/uploads/2021/05/image-12.png 915w, /wp-content/uploads/2021/05/image-12-300x170.png 300w, /wp-content/uploads/2021/05/image-12-768x436.png 768w" sizes="(max-width: 915px) 100vw, 915px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="935" height="514" src="/wp-content/uploads/2021/05/image-13.png" alt="3DMark benchmark - Time Spy" class="wp-image-2520" srcset="/wp-content/uploads/2021/05/image-13.png 935w, /wp-content/uploads/2021/05/image-13-300x165.png 300w, /wp-content/uploads/2021/05/image-13-768x422.png 768w" sizes="(max-width: 935px) 100vw, 935px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="959" height="512" src="/wp-content/uploads/2021/05/image-14.png" alt="3DMark benchmark - Fire Strike" class="wp-image-2521" srcset="/wp-content/uploads/2021/05/image-14.png 959w, /wp-content/uploads/2021/05/image-14-300x160.png 300w, /wp-content/uploads/2021/05/image-14-768x410.png 768w" sizes="(max-width: 959px) 100vw, 959px" /></figure>
+
+
+
+<h2 id="h-6-game-performance">6. Game Performance</h2>
+
+
+
+<h3 id="h-rtx-3070-average-game-performance">RTX 3070 average game performance</h3>
+
+
+
+<p>Here is average performance for RTX 3070 cards. Hovewer, we have Asus ROG Strix OC model, which perfoms best across all RTX 3070 cards.</p>
+
+
+
+<figure class="wp-block-table table table-hover specs"><table><tbody><tr><td>1440p gaming</td><td>RTX 3080 (avg. fps)</td><td>RTX 3070 (avg. fps)</td><td>RTX 2080 (avg. fps)</td></tr><tr><td>Microsoft Flight Simulator</td><td>48</td><td>47</td><td>42</td></tr><tr><td>Control</td><td>98</td><td>77</td><td>61</td></tr><tr><td>Death Stranding</td><td>164</td><td>135</td><td>102</td></tr><tr><td>Far Cry New Dawn</td><td>144</td><td>136</td><td>118</td></tr><tr><td>Gears 5</td><td>125</td><td>102</td><td>78</td></tr><tr><td>Metro Exodus</td><td>174</td><td>136</td><td>105</td></tr><tr><td>Red Dead Redemption 2</td><td>129</td><td>102</td><td>82</td></tr><tr><td>Shadow of the Tomb Raider</td><td>130</td><td>107</td><td>84</td></tr><tr><td>Total War Saga: Troy</td><td>105</td><td>82</td><td>67</td></tr></tbody></table></figure>
+
+
+
+<h3 id="h-dlss-deep-learning-super-sampling">DLSS ( Deep Learning Super Sampling)</h3>
+
+
+
+<p>RTX 3070 cards has new technology &#8211; DLSS  ( Deep Learning Super Sampling) AI acceleration. DLSS is exclusive Nvidia technology which boost FPS while keeping image quality on top level with help of AI ( artificial intelligence ).</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/death-stranding-nvidia-dlss-2-0/death-stranding-nvidia-geforce-rtx-dlss-2-0-performance-3840x2160-dlss-quality-mode.png" alt="DLSS performance per GPU"/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://developer.nvidia.com/sites/default/files/akamai/gamedev/images/fortnite-1920x1080-r1%20%281%29.jpg" alt="DLSS 4k performance"/><figcaption>DLSS Unreal Engine 4 plugin </figcaption></figure>
+
+
+
+<p>You can read more about DLSS on the  <a href="https://www.nvidia.com/en-us/geforce/news/death-stranding-nvidia-dlss-2-0/" target="_blank" rel="noreferrer noopener">official Nvidia website</a> or watch this video:</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Death Stranding with NVIDIA DLSS" width="500" height="281" src="https://www.youtube.com/embed/ccPUj5cCs4c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h3 id="h-asus-rog-strix-rtx-3070-8gb-gaming-oc-fps-performance-in-games">Asus ROG Strix RTX 3070 8GB Gaming OC FPS performance in games</h3>
+
+
+
+<p><span class="has-inline-color has-vivid-purple-color"><strong>Asus ROG Strix RTX 3070 is an excellent card for 1440p 144Hz gaming. </strong></span></p>
+
+
+
+<p><span class="has-inline-color has-black-color">I have exactly a 1440p 144Hz gaming monitor, so I tested a few games and feel very happy with the results.</span></p>
+
+
+
+<p>You can read more about monitors for RTX 3070 here <a href="/best-monitors-for-rtx-3070/" target="_blank" rel="noreferrer noopener">/best-monitors-for-rtx-3070/</a></p>
+
+
+
+<p>Back to performance, in 1440p ( 2560 x 1440 resolution) Asus ROG Strix RTX 3070 provides 100+ FPS  with ultra in any new AAA games like Cyberpunk, Battlefield 5, Far Cry 5, etc., which is perfect for gaming.</p>
+
+
+
+<p>For 4k UHD resolution, AAA games would run mostly with 60 FPS, so you can still play most AAA games but probably would need to sacrifice some settings for a comfort play.</p>
+
+
+
+<p>Here are results I got with FRAPs in my old PC build</p>
+
+
+
+<ul><li><strong>CPU</strong>: i5-6500</li><li><strong>Motherboard</strong>: MSI B150GAMINGM3</li><li><strong>RAM</strong>: Corsair ValueSelect 16GB 2133MHz DDR4 CL15 (8GB x 2)</li><li><strong>PSU</strong>: Fortron FSP ATX 2.3 HEXA+ 500W HE-500+</li><li><strong>SSD</strong>: Samsung SSD 850 EVO 250GB SATA III</li><li><strong>GPU</strong>: Asus ROG Strix RTX 3070 8GB OC Gaming</li></ul>
+
+
+
+<h3 id="h-doom-eternal-2020-fps-benchmark-1440p-ultra-hdr">DOOM Eternal [2020] FPS benchmark ( 1440p, ultra, HDR)</h3>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.wccftech.com/wp-content/uploads/2019/06/doom_eternal_key_art.jpg" alt="DOOM Eternal Delayed To March 2020; Invasion Mode To Come After Launch"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>&nbsp;Min FPS</td><td>&nbsp;Max FPS</td><td>&nbsp;Avg FPS</td></tr><tr><td>124</td><td>147</td><td>140.233</td></tr></tbody></table></figure>
+
+
+
+<h3 id="h-tomb-raider-2020-fps-benchmark-1440p-ultra">Tomb Raider [2020] FPS benchmark ( 1440p, ultra)</h3>
+
+
+
+<figure class="wp-block-image"><img src="https://i.ytimg.com/vi/kg20AcnxC4Q/maxresdefault.jpg" alt="Shadow of the Tomb Raider – The Price of Survival "/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>&nbsp;Min FPS</td><td>&nbsp;Max FPS</td><td>&nbsp;Avg FPS</td></tr><tr><td>132</td><td>145</td><td>142.967</td></tr></tbody></table></figure>
+
+
+
+<h3 id="h-metro-2033-2010-fps-benchmark-1440p-ultra">Metro 2033 [2010] FPS benchmark ( 1440p, ultra)</h3>
+
+
+
+<figure class="wp-block-image"><img src="https://jumpcutonline.co.uk/wp-content/uploads/2020/09/METRO2033-1200x675.jpg" alt="Metro 2033"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>&nbsp;Min FPS</td><td>&nbsp;Max FPS</td><td>&nbsp;Avg FPS</td></tr><tr><td>117</td><td>164</td><td>139.7</td></tr></tbody></table></figure>
+
+
+
+<h3 id="h-conclusion">Conclusion</h3>
+
+
+
+<p>Asus ROG Strix RTX 3070 is a perfect video card for gaming in 1440p, you will get 120+ FPS with ultra settings.</p>
+
+
+
+<p>4k would make you lower some settings to play with good FPS. So if you have 4k monitor, I would recommend 3080 or 3090 models.</p>
+
+
+
+<p>1080p, obviously, would be handled by RTX 3070 without any issues.</p>
+
+
+
+<h2 id="h-7-asus-rog-strix-rtx-3070-pc-builds">7. Asus ROG Strix RTX 3070 PC Builds</h2>
+
+
+
+<p>You can read detailed articles about PC parts to pair with RTX 3070 here:</p>
+
+
+
+<ul><li><a href="/best-cpus-for-the-nvidia-rtx-3070/">Best CPUs For The Nvidia RTX 3070</a></li><li><a href="/best-psu-for-rtx-3070-and-ryzen-7-5800x-build/" target="_blank" rel="noreferrer noopener">Best PSUs for an Nvidia GeForce RTX 3070</a></li><li><a href="/best-rtx-3070-prebuilt-desktop-pc/" target="_blank" rel="noreferrer noopener">Best Prebuilt PCs Featuring Nvidia’s GeForce RTX 3070</a></li><li><a href="/best-monitors-for-rtx-3070/" target="_blank" rel="noreferrer noopener">Best Monitors for RTX 3070 Graphics Card</a></li></ul>
+
+
+
+<h3 id="h-the-best-overall-rtx-3070-build-top-tier-2220">The best overall RTX 3070 build (top-tier) [<strong>$2220</strong>]</h3>
+
+
+
+<p>I spend a several days to find the best build for my new RTX 3070 card. For me everything matters:</p>
+
+
+
+<ul><li><strong>Performance </strong>&#8211; next upgrade planned in 5 years, so I want to make sure I would not have any freezes until that.</li><li><strong>Silence </strong>&#8211; I like listening to music and watching movies on my PC, so for the best audio experience PC need to be silent.</li><li><strong>Quality </strong>&#8211; by that I mean I am ready to overpay for good quality parts to make sure my PC would run without any issues whole 5 years and I can re-sell it later. So all parts are chosen only with brand reputation and many positive feedbacks</li><li><strong>Beauty and aesthetic</strong> &#8211; ok, this is the least important factor, but still, when you spend over $2k on a PC you want to enjoy looking at it, let it be the nice accessory of your room. Aura RGB lights, pc case with matte glass, etc.</li></ul>
+
+
+
+<p>Here is the best top quality build for RTX 3070 I ordered myself:</p>
+
+
+
+<ul><li><strong>CPU</strong>: <a href="https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH?dchild=1&amp;keywords=AMD+Ryzen+9+5900X&amp;qid=1620762883&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=99154e64d186f7be325d861d220aa9cb&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">AMD Ryzen 9 5900X</a></li><li><strong>CPU cooler</strong>: <a href="https://www.amazon.com/NZXT-Kraken-X63-280mm-RL-KRX63-01/dp/B082DYR132?dchild=1&amp;keywords=B082DYR132&amp;qid=1620766100&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=060ff341b14190ad9ab3a4681291c88d&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">NZXT Kraken X63 RGB</a></li><li><strong>Memory</strong>: <a href="https://www.amazon.com/Corsair-Vengeance-PC4-28800-Desktop-Memory/dp/B08PW41WXH?dchild=1&amp;keywords=B08PW41WXH&amp;qid=1620766122&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=f4822a34193c3085592bd9b00f59e7bc&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">CORSAIR VENGEANCE RGB PRO 32GB 4x8GB DDR4 3600MHz</a></li><li><strong>SSD</strong>: <a href="https://www.amazon.com/WD_Black-SN850-Internal-Gaming-Solid/dp/B08KFS6THF?dchild=1&amp;keywords=B08KFS6THF&amp;qid=1620766141&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=03027099b42c2e82a7dcc19413541cb7&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Western Digital WD Black 1TB SN850</a></li><li><strong>Motherboard</strong>: <a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088VSTS9H?dchild=1&amp;keywords=B088VSTS9H&amp;qid=1620766162&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=c8d7963af30dc5bb60e836b713b9e3fc&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">ASUS ROG Strix B550-F Gaming (WiFi 6)</a></li><li><strong>PSU</strong>: <a href="https://www.amazon.com/Seasonic-Titanium-SSR-600TL-FANLESS-TX-700/dp/B0869Q55S7?dchild=1&amp;keywords=B0869Q55S7&amp;qid=1620766182&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=c007ef98301218e0a0bb18fb7d19b106&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Seasonic PRIME &#8211; 700W &#8211; 80+Titanium Fanless</a></li><li><strong>PC case</strong>: <a href="https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/B08CSQPBFJ?dchild=1&amp;keywords=B08CSQPBFJ&amp;qid=1620766207&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=c3d4a563e175490e948c131bc6dc003f&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Lancool II mesh RGB</a></li><li><strong>GPU</strong>: <a href="https://www.amazon.com/s?k=Asus+ROG+Strix+RTX+3070+8GB+OC&amp;linkCode=ll2&amp;tag=technoburst-01-20&amp;linkId=770cf513bda5ecb6091496074e31a200&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Asus ROG Strix RTX 3070 8GB OC</a></li></ul>
+
+
+
+<p><span class="has-inline-color has-luminous-vivid-orange-color">The cost for that build in local shop for me was 1826 €&nbsp;or <strong>$2220</strong> <strong>without GPU</strong>.</span></p>
+
+
+
+<p>With GPU I paid $2220 + $1520 = <strong>$3740</strong> for a best RTX 3070 build.</p>
+
+
+
+<p>Price will vary depends on shop and bitcoin correlations <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<div class="aawp">
+
+    <table class="aawp-table">
+        <thead>
+            <tr>
+                                <th class="aawp-table__th-thumb">Preview</th>
+                <th class="aawp-table__th-title">Product</th>
+                                    <th class="aawp-table__th-rating">Rating</th>
+                                                    <th class="aawp-table__th-pricing">Price</th>
+                                <th class="aawp-table__th-links"></th>
+            </tr>
+        </thead>
+        <tbody>
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08164VTWH" data-aawp-product-title="AMD Ryzen 9 5900X 12-core 24-Thread Unlocked Desktop Processor" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg" alt="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"
+                       rel="nofollow noopener sponsored" target="_blank">AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08164VTWH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">6,844 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;399.00</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08164VTWH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B082DYR132" data-aawp-product-title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler - Rotating Infinity Mirror Design - Improved Pump - Powered By CAM V4 - RGB Connector - Aer P 140mm Radiator Fans,Black,Kraken X Gen 3" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B082DYR132?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/415rq5UIxTL.jpg" alt="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B082DYR132?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..."
+                       rel="nofollow noopener sponsored" target="_blank">NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B082DYR132?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">16,439 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;154.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B082DYR132&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08PW41WXH" data-aawp-product-title="Corsair Vengeance RGB Pro 32GB  4x8GB  DDR4 3600  PC4-28800  C16 Desktop Memory – Black" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08PW41WXH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41-9iJT3PhL.jpg" alt="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08PW41WXH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..."
+                       rel="nofollow noopener sponsored" target="_blank">Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08PW41WXH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">219 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;183.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08PW41WXH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08KFS6THF" data-aawp-product-title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe M.2 2280 3D NAND Up to 7,000 MB/s - WDS100T1X0E" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08KFS6THF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/31X55BiBhnL.jpg" alt="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08KFS6THF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..."
+                       rel="nofollow noopener sponsored" target="_blank">WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08KFS6THF?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">10,698 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;148.00</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08KFS6THF&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B088VSTS9H" data-aawp-product-title="ASUS ROG Strix B550-F Gaming  WiFi 6  AMD AM4 Zen 3 Ryzen 5000 & 3rd Gen Ryzen ATX Gaming Motherboard  PCIe 4.0 2.5Gb LAN BIOS Flashback HDMI 2.1 Addressable Gen 2 RGB Header and Aura Sync" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B088VSTS9H?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41-9pT0iD9L.jpg" alt="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B088VSTS9H?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..."
+                       rel="nofollow noopener sponsored" target="_blank">ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B088VSTS9H?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">4,597 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;328.68</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B088VSTS9H&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B0869Q55S7" data-aawp-product-title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V & EPS12V Fanless Super Quiet 12 Year Warranty Power Supply  Prime FANLESS TX-700" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B0869Q55S7?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/51Qr6xPjUvS.jpg" alt="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B0869Q55S7?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..."
+                       rel="nofollow noopener sponsored" target="_blank">Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B0869Q55S7?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">3,682 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;319.27</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0869Q55S7&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08CSQPBFJ" data-aawp-product-title="Lian Li Lancool II Mesh RGB Tempered Glass eATX Full Tower Computer Case 3 ARGB PWM Fans Pre-Installed Mesh Front Panel 2 Tempered Glass Panels Water-Cooling Ready LANCOOL II MESH Black" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08CSQPBFJ?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Lian Li Lancool II Mesh RGB Tempered Glass eATX Full Tower..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41iJa1npi0L.jpg" alt="Lian Li Lancool II Mesh RGB Tempered Glass eATX Full Tower..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08CSQPBFJ?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Lian Li Lancool II Mesh RGB Tempered Glass eATX Full Tower..."
+                       rel="nofollow noopener sponsored" target="_blank">Lian Li Lancool II Mesh RGB Tempered Glass eATX Full Tower...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08CSQPBFJ?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">487 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;145.00</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08CSQPBFJ&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                </tbody>
+    </table>
+
+</div>
+
+
+
+
+<h4 id="h-cpu-amd-ryzen-9-5900x">CPU: AMD Ryzen 9 5900X</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08164VTWH" data-aawp-product-title="AMD Ryzen 9 5900X 12-core 24-Thread Unlocked Desktop Processor" data-aawp-click-tracking="title">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Sale</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg" alt="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08164VTWH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a>
+                                    <div class="aawp-product__reviews">6,844 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+            AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor        </a>
+        <div class="aawp-product__description">
+            <ul><li>The world's best gaming desktop processor, with 12 cores and 24 processing threads</li><li>Can deliver elite 100-plus FPS performance in the world's most popular games</li><li>Cooler not included, high-performance cooler recommended. Max Temperature- 90°C</li><li>4.8 GHz Max Boost, unlocked for overclocking, 70 MB of cache, DDR-3200 support</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;170.99</span>
+                            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;399.00</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08164VTWH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>For gaming, Ryzen 5 5600x would be just enough. But if you not only play 90% of the time, Ryzen 9 5900x will outperform any CPU for mixed-use. Just because it has 12 cores, which will rock in multitasking.</p>
+
+
+
+<h4 id="h-cpu-cooler-nzxt-kraken-x63-rgb">CPU cooler: NZXT Kraken X63 RGB</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-id="B082DYR132" data-aawp-product-title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler - Rotating Infinity Mirror Design - Improved Pump - Powered By CAM V4 - RGB Connector - Aer P 140mm Radiator Fans,Black,Kraken X Gen 3" data-aawp-click-tracking="title">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B082DYR132?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/415rq5UIxTL.jpg" alt="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B082DYR132?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">16,439 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B082DYR132?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -..." rel="nofollow noopener sponsored" target="_blank">
+            NZXT Kraken X63 280mm - RL-KRX63-01 - AIO RGB CPU Liquid Cooler -...        </a>
+        <div class="aawp-product__description">
+            <ul><li>Design: With a re-designed cap and larger infinity mirror ring LED, the new Kraken X allows for adjusting the...</li><li>Bigger And Brighter: 10% bigger infinitty mirror cap allows for more vivid RGB and a rotating cap accommodates...</li><li>Better Control: Full CAM integration allows you to manage your Kraken’s performance with precision</li><li>Incredible Performance: The Aer P radiator fans feature a chamfered intake and fluid dynamic bearing that...</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;154.99</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B082DYR132&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>It&#8217;s simply one of the best AIO Liquid Cooler with RGB on market. Will help to reduce noise and add cool RGB.</p>
+
+
+
+<h4 id="h-memory-corsair-vengeance-rgb-pro-32gb-4x8gb-ddr4-3600mhz-16cl">Memory: CORSAIR VENGEANCE RGB PRO 32GB 4x8GB DDR4 3600MHz 16CL</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08PW41WXH" data-aawp-product-title="Corsair Vengeance RGB Pro 32GB  4x8GB  DDR4 3600  PC4-28800  C16 Desktop Memory – Black" data-aawp-click-tracking="title">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Sale</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08PW41WXH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41-9iJT3PhL.jpg" alt="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08PW41WXH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">219 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08PW41WXH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16..." rel="nofollow noopener sponsored" target="_blank">
+            Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600 (PC4-28800) C16...        </a>
+        <div class="aawp-product__description">
+            <ul><li>High performance DDR4 memory illuminates your system with vivid, animated lighting from ten ultra-bright,...</li><li>Take control with CORSAIR iCUE software and synchronize lighting across all your CORSAIR iCUE compatible...</li><li>Customize lighting profiles with millions of different patterns and colors, or create your own in CORSAIR iCUE...</li><li>Compatible with Intel and AMD DDR4 motherboards.</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;16.00</span>
+                            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;183.99</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08PW41WXH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>Corsair Vengeance RGB PRO is the top 1 memory ram in most PC building reviews. I have checked a few reviews on youtube and found out 3600MHz 16CL are the best parameters for gaming. 4x8GB also better than 1 32GB.</p>
+
+
+
+<p>4000Mhz 16CL would be better, but it is hard to find ( in local shops I have only 18CL) and would be much more expensive for just 1-3 FPS in some games.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="The Best Memory for AMD Ryzen - A Beginner&#039;s Guide to RAM Performance" width="500" height="281" src="https://www.youtube.com/embed/kEP8iVVQR-g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 id="h-ssd-western-digital-wd-black-1tb-sn850-nvme-pcie-4-0">SSD: Western Digital WD Black 1TB SN850 NVMe&nbsp;PCie 4.0</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08KFS6THF" data-aawp-product-title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe M.2 2280 3D NAND Up to 7,000 MB/s - WDS100T1X0E" data-aawp-click-tracking="title">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Sale</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08KFS6THF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/31X55BiBhnL.jpg" alt="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08KFS6THF?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a>
+                                    <div class="aawp-product__reviews">10,698 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08KFS6THF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -..." rel="nofollow noopener sponsored" target="_blank">
+            WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive -...        </a>
+        <div class="aawp-product__description">
+            <ul><li>Next-gen PCIe Gen4 technology optimized for top-tier gaming (not intended for NAS or server environments)</li><li>Irrationally fast read/write speeds up to 7000/5300MB/s (1TB model) and up to 1,000,000 IOPS (1TB and 2TB...</li><li>Up to 2TB capacity to hold your favorite battle-ready games</li><li>Downloadable WD_BLACK Dashboard software to customize and control your gaming experience</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;81.99</span>
+                            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;148.00</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08KFS6THF&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>Simply best speed SSD on market right now. With PCIe Gen4 x4 it is able to get extremely high performance:</p>
+
+
+
+<ul><li>Sequential Read Performance: 7000MB/s</li><li>Sequential Write Performance: 5300MB/s</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://m.media-amazon.com/images/S/aplus-media/vc/063f3aa1-7c81-4c91-9f7a-b5479a015481.__CR0,0,1464,600_PT0_SX1464_V1___.jpg" alt=" Western Digital WD Black 1TB SN850 NVMe PCie 4.0"/></figure>
+
+
+
+<h4 id="h-motherboard-asus-rog-strix-b550-f-gaming-wifi-6">Motherboard: ASUS ROG Strix B550-F Gaming (WiFi 6)</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-id="B088VSTS9H" data-aawp-product-title="ASUS ROG Strix B550-F Gaming  WiFi 6  AMD AM4 Zen 3 Ryzen 5000 & 3rd Gen Ryzen ATX Gaming Motherboard  PCIe 4.0 2.5Gb LAN BIOS Flashback HDMI 2.1 Addressable Gen 2 RGB Header and Aura Sync" data-aawp-click-tracking="title">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B088VSTS9H?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41-9pT0iD9L.jpg" alt="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B088VSTS9H?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">4,597 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B088VSTS9H?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &..." rel="nofollow noopener sponsored" target="_blank">
+            ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 Zen 3 Ryzen 5000 &...        </a>
+        <div class="aawp-product__description">
+            <ul><li>Cutting edge gaming motherboard: with AMD AM4 socket, it is a perfect pairing for Zen 3 Ryzen 5000 & 3rd Gen...</li><li>Faster memory: 4 memory slots support dual channel DDR4 memory up to 128 GB, with ASUS OptiMem enabling higher...</li><li>Blazing data transmission speeds: Two M.2 slots, including the latest PCIe 4.0, provide maximum storage...</li><li>High-performance gaming networking: Onboard WiFi 6 (802.11ax) and 2.5 Gb Ethernet for exceptionally fast and...</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;328.68</span>
+            
+                    </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B088VSTS9H&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>I pick Asus ROG Strix B550-F card because it is perfect combo with Asus ROG Strix RTX 3070. </p>
+
+
+
+<p>B550 chipset supports PCIe Gen4 which is important for both GPU and SSD to perform at maximum possible speed.</p>
+
+
+
+<p><strong><span class="has-inline-color has-pale-pink-color">A</span><span class="has-inline-color has-vivid-red-color">u</span><span class="has-inline-color has-luminous-vivid-orange-color">r</span><span class="has-inline-color has-luminous-vivid-amber-color">a</span> <span class="has-inline-color has-light-green-cyan-color">R</span><span class="has-inline-color has-vivid-green-cyan-color">GB</span> <span class="has-inline-color has-pale-cyan-blue-color">w</span><span class="has-inline-color has-vivid-cyan-blue-color">i</span><span class="has-inline-color has-vivid-purple-color">l</span><span class="has-inline-color has-pale-pink-color">l</span> <span class="has-inline-color has-vivid-red-color">s</span><span class="has-inline-color has-luminous-vivid-orange-color">y</span><span class="has-inline-color has-luminous-vivid-amber-color">n</span><span class="has-inline-color has-light-green-cyan-color">c</span> <span class="has-inline-color has-vivid-green-cyan-color">w</span><span class="has-inline-color has-pale-cyan-blue-color">i</span><span class="has-inline-color has-vivid-cyan-blue-color">t</span><span class="has-inline-color has-vivid-purple-color">h</span> <span class="has-inline-color has-pale-pink-color">G</span><span class="has-inline-color has-vivid-red-color">P</span><span class="has-inline-color has-luminous-vivid-orange-color">U</span> <span class="has-inline-color has-luminous-vivid-amber-color">R</span><span class="has-inline-color has-light-green-cyan-color">G</span><span class="has-inline-color has-vivid-green-cyan-color">B</span></strong><span class="has-inline-color has-pale-cyan-blue-color">.</span></p>
+
+
+
+<p>B550 chipset will support full features of new 5000 gen Ryzen CPU.</p>
+
+
+
+<h4 id="h-psu-seasonic-prime-700w-80-titanium-fanless">PSU: Seasonic PRIME &#8211; 700W &#8211; 80+Titanium Fanless</h4>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-id="B0869Q55S7" data-aawp-product-title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V & EPS12V Fanless Super Quiet 12 Year Warranty Power Supply  Prime FANLESS TX-700" data-aawp-click-tracking="title">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B0869Q55S7?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/51Qr6xPjUvS.jpg" alt="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B0869Q55S7?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">3,682 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B0869Q55S7?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &..." rel="nofollow noopener sponsored" target="_blank">
+            Seasonic Prime 700 Titanium SSR-700TL 700W 80+ Titanium ATX12V &...        </a>
+        <div class="aawp-product__description">
+            <ul><li>FANLESS DESIGN - Silent operation does not only provide a more pleasant working environment but also results...</li><li>MICRO TOLERANCE LOAD REGULATION (under 0.5 %): This impressive electrical performance and stability makes this...</li><li>FULL MODULAR - Use only the cables you need to reduce clutter and improve airflow for a better ventilated...</li><li>80 PLUS TITANIUM - Less energy gets wasted during power conversion; Cut down your electricity usage and be...</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;319.27</span>
+            
+                    </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0869Q55S7&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<p>Technology did a jump since I built my last PC. I was surprised to see PSU totally without fans, completely silent. Yep, it is more expensive, but I am ready to pay extra $100-$150 for a years of silent PC.</p>
+
+
+
+<p>I picked 700W because I am not going to overclock my PC. But if you want, better to buy <a href="https://www.amazon.com/Seasonic-TX-850-Titanium-High-Performance-SSR-850TR/dp/B07X9VYLHH?dchild=1&amp;keywords=Seasonic+PRIME+-+850W+-+80%2BTitanium+Fanless&amp;qid=1620734887&amp;sr=8-2&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=9ad2b3cd231420b95ec3b25afdad42a7&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Seasonic PRIME TX-850, 850W 80+ Titanium</a>.</p>
+
+
+
+<p>If you are  OK with little noise, you can change it to any 700-850W GOLD 80+ PSU. For example, <a href="https://www.amazon.com/NZXT-C750-NP-C750M-Certified-Bearings/dp/B082DYTR5Z?dchild=1&amp;keywords=750W+PSU+gold&amp;qid=1620735004&amp;sr=8-4&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=3f49034a8ce683aeb6556c6db5edb3aa&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">NZXT C750 &#8211; 750 Watt PSU &#8211; 80+ Gold Certified</a> would be cheaper.</p>
+
+
+
+<h4 id="h-gpu-asus-rog-strix-rtx-3070-8gb-oc">GPU: Asus ROG Strix RTX 3070 8GB OC</h4>
+
+
+
+<p >No products found.</p>
+
+
+
+<p>Obviously, <a href="https://www.amazon.com/s?k=asus+rog+RTX+3070&amp;i=computers&amp;rh=n%3A284822%2Cp_89%3AASUS&amp;dc=&amp;qid=1620736499&amp;rnid=2528832011&amp;linkCode=ll2&amp;tag=technoburst-01-20&amp;linkId=d3869b607a16e32841d48b7389ac9357&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Asus ROG Strix RTX 3070 GPU</a>. But at the moment of writing this post, there are no such GPUs in amazon.</p>
+
+
+
+<p>You can take <a href="https://www.amazon.com/ASUS-GeForce-Graphics-DisplayPort-Bearings/dp/B08L8KC1J7?dchild=1&amp;keywords=asus+RTX+3070&amp;qid=1620736343&amp;refinements=p_89%3AASUS&amp;rnid=172282&amp;s=electronics&amp;sr=1-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=1c452577b27ee09fc05d3ec00db49480&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">ASUS TUF Gaming NVIDIA GeForce RTX 3070 OC</a> too, it is a good video card too. Just right now it is not available too.</p>
+
+
+
+<p>I recommend to check local stores or buy any brand&#8217;s RTX 3070 which is available on Amazon</p>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-id="B08XZQ7ZFV" data-aawp-product-title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card 8GB GDDR6 PCIe 4.0 Ray Tracing VR Ready 3X DisplayPort 1.4 1x HDMI 2.1 8K DirectX 12 Ultimate TORX Fan 3.0 w/ Mytrix HDMI Cable" data-aawp-click-tracking="title">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/51aYF+q7WmL.jpg" alt="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08XZQ7ZFV?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 70%;"></span></a>
+                                    <div class="aawp-product__reviews">12 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..." rel="nofollow noopener sponsored" target="_blank">
+            MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB...        </a>
+        <div class="aawp-product__description">
+                    </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current"></span>
+            
+                    </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08XZQ7ZFV&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<h3 id="h-the-best-value-rtx-3070-gaming-pc-build-less-fancy-top-tier-1073">The best value RTX 3070 gaming PC build (less fancy top-tier) [$1073]</h3>
+
+
+
+<p>You can build a top-quality PC with the best performance for gaming and top-quality parts if you sacrifice complete silence and fancy RGB lights. </p>
+
+
+
+<p>Here is best value top-tier build with RTX 3070:</p>
+
+
+
+<ul><li><strong>CPU</strong>: <a href="https://www.amazon.com/AMD-Ryzen-5600X-12-Thread-Processor/dp/B08166SLDF?dchild=1&amp;keywords=AMD+Ryzen+9+5600X&amp;qid=1620737425&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburstuk-20&amp;linkId=e4328c99cac552b88015812b8f616447&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">AMD Ryzen 9 5600X</a></li><li><strong>CPU cooler</strong>: <a href="https://www.amazon.com/quiet-Dark-Rock-BK022-Cooler/dp/B07BY6F8D9?dchild=1&amp;keywords=be+quiet%21+Dark+Rock+Pro+4&amp;qid=1620737383&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=5d711ce028aa8179ba08e06e21770db6&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">be quiet! Dark Rock Pro 4</a></li><li><strong>Memory</strong>: <a href="https://www.amazon.com/G-Skill-288-Pin-PC4-25600-CL16-18-18-38-F4-3200C16D-32GIS/dp/B08175L812?dchild=1&amp;keywords=32gb+cl16+memory&amp;qid=1620737312&amp;refinements=p_n_feature_five_browse-bin%3A9559990011%2Cp_n_feature_two_browse-bin%3A16955285011%7C16955287011%2Cp_n_condition-type%3A2224371011%2Cp_89%3AG.Skill&amp;rnid=2528832011&amp;s=pc&amp;sr=1-7&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=9e6503a18eb95fc49ed795d0af61468e&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">G.Skill Aegis Series 32GB 3200Mhz (2 x 16GB)&nbsp;</a></li><li><strong>SSD</strong>: <a href="https://www.amazon.com/Samsung-970-EVO-Plus-MZ-V7S1T0B/dp/B07MFZY2F2?dchild=1&amp;keywords=PCIe+gen+4+ssd+1tb&amp;qid=1620737593&amp;sr=8-5&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=6675b9c5176c77b38433a3eb53694a9a&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">SAMSUNG 970 EVO Plus SSD 1TB</a></li><li><strong>Motherboard</strong>: <a href="https://www.amazon.com/MSI-MAG-B550-TOMAHAWK-Motherboard/dp/B089CWDHFZ?dchild=1&amp;keywords=MSI+MAG+B550+TOMAHAWK&amp;qid=1620737851&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=20556b7b1116deda838d032ac1b010e0&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">MSI MAG B550 TOMAHAWK Gaming</a></li><li><strong>PSU</strong>: <a href="https://www.amazon.com/NZXT-C750-NP-C750M-Certified-Bearings/dp/B082DYTR5Z?dchild=1&amp;keywords=750W+PSU+gold&amp;qid=1620735004&amp;sr=8-4&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=3f49034a8ce683aeb6556c6db5edb3aa&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">NZXT C750 &#8211; 750 Watt PSU &#8211; 80+ Gold Certified</a></li><li><strong>PC case</strong>: <a href="https://www.amazon.com/NZXT-H510-Management-Water-Cooling-Construction/dp/B07TC76671?crid=39S680GG0H3JW&amp;dchild=1&amp;keywords=nzxt+pc+case&amp;qid=1620737970&amp;sprefix=nz%2Caps%2C264&amp;sr=8-3&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=9fee7e878fa9de36f86a2297ed25e720&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">NZXT H510</a></li><li><strong>GPU</strong>: Any RTX 3070 available. I found <a href="https://www.amazon.com/MSI-GeForce-Graphics-DisplayPort-Ultimate/dp/B08XZQ7ZFV?crid=34QC7C9MFBUP0&amp;dchild=1&amp;keywords=3070+rtx+graphics+card&amp;qid=1620738097&amp;refinements=p_n_feature_twenty-one_browse-bin%3A21563385011&amp;rnid=21563384011&amp;s=pc&amp;sprefix=3070+rtx%2Caps%2C247&amp;sr=1-8&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=f00c814eaff528de83c4d6513c1f3c76&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">MSI GeForce RTX 3070 Ventus 2X OC</a></li></ul>
+
+
+
+<p>The total cost of all PC parts except GPU would be <strong>$1073</strong>. With GPU would be $1073+ $1534 =<strong> $2607</strong>.</p>
+
+
+
+<p>Nice 50% saving on PC parts, which will result in only a few lower FPS in games. We just cut RGB lights, AIO Liquid Cooler, Pcie 4gen to 3gen. All of these don&#8217;t affect gaming much.</p>
+
+
+
+<div class="aawp">
+
+    <table class="aawp-table">
+        <thead>
+            <tr>
+                                <th class="aawp-table__th-thumb">Preview</th>
+                <th class="aawp-table__th-title">Product</th>
+                                    <th class="aawp-table__th-rating">Rating</th>
+                                                    <th class="aawp-table__th-pricing">Price</th>
+                                <th class="aawp-table__th-links"></th>
+            </tr>
+        </thead>
+        <tbody>
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08166SLDF" data-aawp-product-title="AMD Ryzen 5 5600X 6-core 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08166SLDF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41C9K91sLhL.jpg" alt="AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08166SLDF?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor..."
+                       rel="nofollow noopener sponsored" target="_blank">AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08166SLDF?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">16,103 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;193.89</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08166SLDF&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B07BY6F8D9" data-aawp-product-title="be quiet! Dark Rock Pro 4 BK022 250W TDP CPU Cooler" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07BY6F8D9?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="be quiet! Dark Rock Pro 4, BK022, 250W TDP, CPU Cooler" rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41VulWus2zL.jpg" alt="be quiet! Dark Rock Pro 4, BK022, 250W TDP, CPU Cooler"  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07BY6F8D9?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="be quiet! Dark Rock Pro 4, BK022, 250W TDP, CPU Cooler"
+                       rel="nofollow noopener sponsored" target="_blank">be quiet! Dark Rock Pro 4, BK022, 250W TDP, CPU Cooler                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07BY6F8D9?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">13,252 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;89.90</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07BY6F8D9&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B08175L812" data-aawp-product-title="G.Skill Aegis Series 32GB  2 x 16GB  288-Pin SDRAM PC4-25600 DDR4 3200 CL16-18-18-38 1.35V Dual Channel Desktop Memory Model F4-3200C16D-32GIS" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08175L812?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="G.Skill Aegis Series 32GB (2 x 16GB) 288-Pin SDRAM PC4-25600 DDR4..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41LRoUi5y7L.jpg" alt="G.Skill Aegis Series 32GB (2 x 16GB) 288-Pin SDRAM PC4-25600 DDR4..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08175L812?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="G.Skill Aegis Series 32GB (2 x 16GB) 288-Pin SDRAM PC4-25600 DDR4..."
+                       rel="nofollow noopener sponsored" target="_blank">G.Skill Aegis Series 32GB (2 x 16GB) 288-Pin SDRAM PC4-25600 DDR4...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08175L812?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">217 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;89.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08175L812&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B07MFZY2F2" data-aawp-product-title="Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard Drive w/ V-NAND Technology Storage and Memory Expansion for Gaming Graphics w/ Heat Control Max Speed MZ-V7S1T0B/AM" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07MFZY2F2?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41hk7QdnGJL.jpg" alt="Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07MFZY2F2?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard..."
+                       rel="nofollow noopener sponsored" target="_blank">Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07MFZY2F2?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">42,736 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;99.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07MFZY2F2&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B089CWDHFZ" data-aawp-product-title="MSI MAG B550 TOMAHAWK Gaming Motherboard  AMD AM4 DDR4 PCIe 4.0 SATA 6Gb/s M.2 USB 3.2 Gen 2 HDMI/DP ATX AMD Ryzen 5000 Series processors" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B089CWDHFZ?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI MAG B550 TOMAHAWK Gaming Motherboard (AMD AM4, DDR4, PCIe..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/51grdWc7vAL.jpg" alt="MSI MAG B550 TOMAHAWK Gaming Motherboard (AMD AM4, DDR4, PCIe..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B089CWDHFZ?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI MAG B550 TOMAHAWK Gaming Motherboard (AMD AM4, DDR4, PCIe..."
+                       rel="nofollow noopener sponsored" target="_blank">MSI MAG B550 TOMAHAWK Gaming Motherboard (AMD AM4, DDR4, PCIe...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B089CWDHFZ?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">4,081 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;169.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B089CWDHFZ&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B082DYTR5Z" data-aawp-product-title="NZXT C750 - NP-C750M - 750 Watt PSU - 80+ Gold Certified - Hybrid Silent Fan Control - Fluid Dynamic Bearings - Modular Design - Sleeved Cables - ATX Gaming Power Supply - 2020" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B082DYTR5Z?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT C750 - NP-C750M - 750 Watt PSU - 80+ Gold Certified - Hybrid..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41xdBC2Y6BL.jpg" alt="NZXT C750 - NP-C750M - 750 Watt PSU - 80+ Gold Certified - Hybrid..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B082DYTR5Z?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT C750 - NP-C750M - 750 Watt PSU - 80+ Gold Certified - Hybrid..."
+                       rel="nofollow noopener sponsored" target="_blank">NZXT C750 - NP-C750M - 750 Watt PSU - 80+ Gold Certified - Hybrid...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B082DYTR5Z?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">2,444 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;85.49</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B082DYTR5Z&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B07TC76671" data-aawp-product-title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - White/Black" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07TC76671?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41G1w0NfbYL.jpg" alt="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07TC76671?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..."
+                       rel="nofollow noopener sponsored" target="_blank">NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07TC76671?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">29,551 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;89.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07TC76671&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B08XZQ7ZFV" data-aawp-product-title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card 8GB GDDR6 PCIe 4.0 Ray Tracing VR Ready 3X DisplayPort 1.4 1x HDMI 2.1 8K DirectX 12 Ultimate TORX Fan 3.0 w/ Mytrix HDMI Cable" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/51aYF+q7WmL.jpg" alt="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..."
+                       rel="nofollow noopener sponsored" target="_blank">MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08XZQ7ZFV?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 70%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">12 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price"></span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08XZQ7ZFV&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                </tbody>
+    </table>
+
+</div>
+
+
+
+
+<h3 id="h-the-best-budget-rtx-3070-gaming-pc-build-781">The best budget RTX 3070 gaming PC build [$781]</h3>
+
+
+
+<p>This is the lowest possible price for gaming PC parts for your RTX 3070. The parts listed here are still good enough for gaming. The CPU would have more power consumption, higher temperature, budget RAM may lower a few FPS, but you will still able you play AAA games on ultra settings comfortably.</p>
+
+
+
+<ul id="block-85b6cddd-7ca4-4cc9-88ff-a1b04c705d42"><li><strong>CPU</strong>: <a href="https://www.amazon.com/Intel-i5-11600K-Desktop-Processor-Unlocked/dp/B08X67YZBL?dchild=1&amp;keywords=intel+11600k&amp;qid=1620740308&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=1e2e09b9ccc2ffc6cb01bf69118d95eb&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Intel Core i5-11600K</a></li><li><strong>CPU cooler</strong>: <a href="https://www.amazon.com/Cooler-Master-RR-212S-20PK-R1-Contact-Silencio/dp/B07H25DYM3?dchild=1&amp;keywords=Cooler+Master+RR-212S-20PK-R1&amp;qid=1620766414&amp;sr=8-3&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=375f10b8f8047d8316bfb9303f744449&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Cooler Master Hyper 212</a></li><li><strong>Memory</strong>: <a href="https://www.amazon.com/Crucial-Ballistix-Desktop-Gaming-BL2K8G30C15U4B/dp/B083TSFGBP?dchild=1&amp;keywords=16gb%2B2933%2Bcl16&amp;qid=1620739704&amp;s=pc&amp;sr=1-2&amp;th=1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=2725c348de159764b0804b555638b05e&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Crucial Ballistix 3000 MHz DDR4 DRAM 16GB (8GBx2) CL15</a></li><li><strong>SSD</strong>: <a href="https://www.amazon.com/Blue-SN550-1TB-NVMe-Internal/dp/B07YFFX5MD?dchild=1&amp;keywords=1tb+ssd+nvme+m.2&amp;qid=1620740132&amp;sr=8-3&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=ca46c2ea12436155e55ff476dc0af9e5&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Western Digital 1TB WD Blue SN550 NVMe</a></li><li><strong>Motherboard</strong>: <a href="https://www.amazon.com/ASUS-B560-PLUS-Motherboard-DisplayPort-Thunderbolt/dp/B08WRMG17M?dchild=1&amp;keywords=11th+gen&amp;qid=1620739487&amp;s=pc&amp;sr=1-4&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=b803601ad9f0f158b84b9fc8a88b40c1&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">ASUS Prime B560-PLUS LGA1200</a></li><li><strong>PSU</strong>: <a href="https://www.amazon.com/EVGA-SuperNOVA-Modular-Warranty-120-GP-0750-X1/dp/B0797HL9Z4?dchild=1&amp;keywords=750w+psu+gold&amp;qid=1620740751&amp;sr=8-3&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=610755f7bf49fba96b47bf51b85bd342&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">EVGA SuperNOVA 80 Plus Gold 750W</a></li><li><strong>PC case</strong>: <a href="https://www.amazon.com/NZXT-H510-Management-Water-Cooling-Construction/dp/B07TC76671?crid=39S680GG0H3JW&amp;dchild=1&amp;keywords=nzxt+pc+case&amp;qid=1620737970&amp;sprefix=nz%2Caps%2C264&amp;sr=8-3&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=f9c8afeef783378fd7ac51f234320a18&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">NZXT H510</a></li><li><strong>GPU</strong>: Any RTX 3070 available. I found <a href="https://www.amazon.com/MSI-GeForce-Graphics-DisplayPort-Ultimate/dp/B08XZQ7ZFV?crid=34QC7C9MFBUP0&amp;dchild=1&amp;keywords=3070+rtx+graphics+card&amp;qid=1620738097&amp;refinements=p_n_feature_twenty-one_browse-bin%3A21563385011&amp;rnid=21563384011&amp;s=pc&amp;sprefix=3070+rtx%2Caps%2C247&amp;sr=1-8&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=f00c814eaff528de83c4d6513c1f3c76&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">MSI GeForce RTX 3070 Ventus 2X OC</a></li></ul>
+
+
+
+<p>Main changes comparing to previous more expensive build are:</p>
+
+
+
+<ul><li><strong>CPU change from Ryzen to Intel</strong> &#8211; intel i5-11600K is actually the best value choice now on market. The only disadvantage is the power consumption of 125W and high temperature. For intel 80C is normal operational working temperature.</li><li><strong>Simple, cheap, but solid CPU cooler</strong>. Intel has good cheap options.</li><li><strong>16GB ram instead of 32GB</strong> &#8211; right now 16GB is enough even for AAA games. You can easily buy another 16GB later if needed.</li><li><strong>Intel socket motherboard</strong> &#8211; we changed the CPU, so need a different motherboard. Happily, there is a cheap ASUS Prime B560-Plus motherboard with all the needed features.</li></ul>
+
+
+
+<p>As you see, nothing really wrong with this build, but <strong>the cost is only $781</strong>, which is almost $300 cheaper as previous build.</p>
+
+
+
+<p>P.S. A tip, buy <strong>i5-11600kf </strong>if you could find it for a lower price. It is the same performance CPU, just without an integrated video chip, which you anyway don&#8217;t need.</p>
+
+
+
+<div class="aawp">
+
+    <table class="aawp-table">
+        <thead>
+            <tr>
+                                <th class="aawp-table__th-thumb">Preview</th>
+                <th class="aawp-table__th-title">Product</th>
+                                    <th class="aawp-table__th-rating">Rating</th>
+                                                    <th class="aawp-table__th-pricing">Price</th>
+                                <th class="aawp-table__th-links"></th>
+            </tr>
+        </thead>
+        <tbody>
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08X67YZBL" data-aawp-product-title="Intel® Core&#x2122; i5-11600K Desktop Processor 6 Cores up to 4.9 GHz Unlocked LGA1200  Intel® 500 Series & Select 400 Series Chipset  125W" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08X67YZBL?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel® Core&#x2122; i5-11600K Desktop Processor 6 Cores up to 4.9 GHz..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41y8IZQjmAL.jpg" alt="Intel® Core&#x2122; i5-11600K Desktop Processor 6 Cores up to 4.9 GHz..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08X67YZBL?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel® Core<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i5-11600K Desktop Processor 6 Cores up to 4.9 GHz..."
+                       rel="nofollow noopener sponsored" target="_blank">Intel® Core<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i5-11600K Desktop Processor 6 Cores up to 4.9 GHz...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08X67YZBL?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">834 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;230.00</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08X67YZBL&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B07H25DYM3" data-aawp-product-title="Cooler Master Hyper 212 Black Edition CPU Air Coolor Silencio FP120 Fan Anodized Gun-Metal Black Brushed Nickel Fins 4 Copper Direct Contact Heat Pipes for AMD Ryzen/Intel LGA1200/1151" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07H25DYM3?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Cooler Master Hyper 212 Black Edition CPU Air Coolor, Silencio..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41q91XCgtaL.jpg" alt="Cooler Master Hyper 212 Black Edition CPU Air Coolor, Silencio..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07H25DYM3?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Cooler Master Hyper 212 Black Edition CPU Air Coolor, Silencio..."
+                       rel="nofollow noopener sponsored" target="_blank">Cooler Master Hyper 212 Black Edition CPU Air Coolor, Silencio...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07H25DYM3?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">28,172 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;29.00</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07H25DYM3&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08WRMG17M" data-aawp-product-title="ASUS Prime B560-PLUS LGA1200  Intel 11th/10th Gen  ATX Motherboard  PCIe 4.0 2xM.2 Slots 8 Power Stages 1 Gb LAN DisplayPort HDMI USB 3.2 Gen 1 Type-C USB 3.2 Gen 2 Thunderbolt&#x2122; 4 Support" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08WRMG17M?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS Prime B560-PLUS LGA1200 (Intel 11th/10th Gen) ATX..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/51fVcqQT8hL.jpg" alt="ASUS Prime B560-PLUS LGA1200 (Intel 11th/10th Gen) ATX..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08WRMG17M?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="ASUS Prime B560-PLUS LGA1200 (Intel 11th/10th Gen) ATX..."
+                       rel="nofollow noopener sponsored" target="_blank">ASUS Prime B560-PLUS LGA1200 (Intel 11th/10th Gen) ATX...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08WRMG17M?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">380 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;132.77</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08WRMG17M&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B083TSFGBP" data-aawp-product-title="Crucial Ballistix 3000 MHz DDR4 DRAM Desktop Gaming Memory Kit 16GB  8GBx2  CL15 BL2K8G30C15U4B  BLACK" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B083TSFGBP?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Crucial Ballistix 3000 MHz DDR4 DRAM Desktop Gaming Memory Kit..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/31KwQK1VgNL.jpg" alt="Crucial Ballistix 3000 MHz DDR4 DRAM Desktop Gaming Memory Kit..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B083TSFGBP?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Crucial Ballistix 3000 MHz DDR4 DRAM Desktop Gaming Memory Kit..."
+                       rel="nofollow noopener sponsored" target="_blank">Crucial Ballistix 3000 MHz DDR4 DRAM Desktop Gaming Memory Kit...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B083TSFGBP?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">24,999 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price"></span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B083TSFGBP&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B07YFFX5MD" data-aawp-product-title="Western Digital 1TB WD Blue SN550 NVMe Internal SSD - Gen3 x4 PCIe 8Gb/s M.2 2280 3D NAND Up to 2,400 MB/s - WDS100T2B0C" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07YFFX5MD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Western Digital 1TB WD Blue SN550 NVMe Internal SSD - Gen3 x4..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/31KlCmJdzfS.jpg" alt="Western Digital 1TB WD Blue SN550 NVMe Internal SSD - Gen3 x4..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07YFFX5MD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Western Digital 1TB WD Blue SN550 NVMe Internal SSD - Gen3 x4..."
+                       rel="nofollow noopener sponsored" target="_blank">Western Digital 1TB WD Blue SN550 NVMe Internal SSD - Gen3 x4...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07YFFX5MD?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">17,612 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;109.95</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07YFFX5MD&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B0797HL9Z4" data-aawp-product-title="EVGA SuperNOVA 750 G+ 80 Plus Gold 750W Fully Modular FDB Fan 10 Year Warranty Includes Power ON Self Tester Power Supply 120-GP-0750-X1" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B0797HL9Z4?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular, FDB Fan,..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41XshJN2guL.jpg" alt="EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular, FDB Fan,..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B0797HL9Z4?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular, FDB Fan,..."
+                       rel="nofollow noopener sponsored" target="_blank">EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular, FDB Fan,...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B0797HL9Z4?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">701 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;81.00</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0797HL9Z4&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B07TC76671" data-aawp-product-title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - White/Black" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B07TC76671?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41G1w0NfbYL.jpg" alt="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B07TC76671?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -..."
+                       rel="nofollow noopener sponsored" target="_blank">NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case -...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B07TC76671?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">29,551 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;89.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07TC76671&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B08XZQ7ZFV" data-aawp-product-title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card 8GB GDDR6 PCIe 4.0 Ray Tracing VR Ready 3X DisplayPort 1.4 1x HDMI 2.1 8K DirectX 12 Ultimate TORX Fan 3.0 w/ Mytrix HDMI Cable" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/51aYF+q7WmL.jpg" alt="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08XZQ7ZFV?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB..."
+                       rel="nofollow noopener sponsored" target="_blank">MSI GeForce RTX 3070 Ventus 2X OC Gaming Graphics Card, 8GB...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08XZQ7ZFV?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 70%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">12 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price"></span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08XZQ7ZFV&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                </tbody>
+    </table>
+
+</div>
+
+
+
+
+<h2 id="h-8-final-notes-and-conclusion">8. Final notes and conclusion</h2>
+
+
+
+<p>Asus ROG Strix RTX 3070 8GB OC is an excellent card for gaming if you have a 1080p or 1440p monitor. It will serve you well in AAA games for a few years without any problems.</p>
+
+
+
+<p>However, if you gonna play in 4k soon, it would be better to look for RTX 3080. 3070 can handle 4k too, but not on ultra-performance.</p>
+
+
+
+<p>Unfortunately, due to bitcoin boom, it is impossible to find RTX 3070 video card anywhere close to MSRP $499 price. Hope this situation would become better soon.</p>
+
+
+
+<p>If your budget can allow it, Asus ROG Strix RTX 3070 8GB OC would be a superior choice.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 id="h-9-faq">9. FAQ</h2>
+
+
+
+<h3 id="h-how-the-asus-3070-cost">How the Asus 3070 cost?</h3>
+
+
+
+<p>The MSRP price of Asus ROG RTX 3070 8GB OC Gaming is $634. Hovewer, due to GPU shortage, real price is above $1200.</p>
+
+
+
+<h3 id="h-is-rog-strix-worth-it">Is Rog Strix worth it?</h3>
+
+
+
+<p>Depends on what you want. If you are hardcore gamer who love to overclock and get maximum from PC performance, then yes &#8211; RoG Strix worth it. If you are casual gamer, you can take any decent brand 3070 RTX card.</p>
+
+
+
+<h3 id="h-how-do-you-get-an-rtx-3070">How do you get an RTX 3070?</h3>
+
+
+
+<p>Check Amazon and newEgg. If nothing there, then check your local shops. Most probably your local shop wioll have RTX 3070 card, but with big overprice.</p>
+
+
+
+<h3 id="h-which-3070-should-i-get">Which 3070 should I get?</h3>
+
+
+
+<p>Zotac NVIDIA GeForce RTX&nbsp;3070&nbsp;Twin Edge OC or Asus ROG Strix RTX 3070 8GB OC Gaming are recomennded for the best build quality and overclocking possibilities. </p>
+
+
+
+<h3 id="h-why-are-graphics-cards-out-of-stock">Why are graphics cards out of stock?</h3>
+
+
+
+<p>GPU shortage is caused by bitcoin boom, people earn so big money on mining in 2021, so they buy all good GPUs not looking at price.</p>
+
+
+
+<h3 id="h-why-are-gpu-prices-so-high-2021">Why are GPU prices so high 2021?</h3>
+
+
+
+<p>Again, because of bitcoin boom, miners buy all available good GPUs. The supply and demand model make price as high as miners can pay, until demand meet supply.</p>
+
+
+
+<h3 id="h-will-graphics-card-prices-drop-in-2021">Will graphics card prices drop in 2021?</h3>
+
+
+
+<p>There are a few factors which may bring prices down:</p>
+
+
+
+<ul><li>a big drop of bitcoin price, which already happened a few times</li><li>Nvidia <a href="https://www.bbc.com/news/technology-56114508">may limit</a> crypto-mining on new video cards</li><li>Intel <a href="https://www.pcmag.com/news/intel-to-launch-xe-hpg-pc-gaming-graphics-cards-in-2021-using-outside-foundry#:~:text=Graphics%20Cards-,Intel%20to%20Launch%20'Xe%20HPG'%20PC%20Gaming%20Graphics%20Cards%20in,in%20laptops%20later%20this%20year." target="_blank" rel="noreferrer noopener">is going to launch</a> new discrete graphics cards to compete with Nvidia and AMD</li></ul>
+
+
+
+<h3 id="h-what-is-the-best-budget-graphics-card-2021">What is the best budget graphics card 2021?</h3>
+
+
+
+<p>Best budget card 2021 is <a href="https://www.amazon.com/MSI-Gaming-RX-5500-XT/dp/B082G34GSL/ref=sr_1_10?dchild=1&amp;keywords=gigabyte+rx+5500xt&amp;qid=1620761960&amp;sr=8-10">Radeon RX 5500 XT</a>. A bit cheaper, but more power consuming analog is <a href="https://www.amazon.com/Sapphire-DirectX-11265-05-20T-256-Bit-CrossFireX/dp/B092NV3D1N/ref=sr_1_1?dchild=1&amp;keywords=RX+580&amp;qid=1620762133&amp;rnid=2941120011&amp;s=pc&amp;sr=1-1" target="_blank" rel="noreferrer noopener">Radeon RX 580</a> that shows similar performance, depends on game. </p>
+
+
+
+<p>I just had RX 580 myself and can prove comfort gaming at 1080p on high/ultra settings and medium/high graphics settings for 1440p.</p>
+
+
+
+<h3 id="h-is-asus-rog-strix-8g-good-for-gaming">Is Asus ROG Strix 8g good for gaming?</h3>
+
+
+
+<p>Yes, Asus Rog Strix 8GB OC is totally good for gaming. It shows a bit better performance than other 3070 cards because it is slightly overclocked by default, so you can play even on 4k resolution if you adjust some settings. Gaming on 1440p is totally fine on ultra.</p>
+
+
+
+<h3 id="h-what-cpu-should-i-pair-with-rtx-3070">What CPU should I pair with RTX 3070?</h3>
+
+
+
+<p>I would recommend following CPUs to pair with RTX 3070:</p>
+
+
+
+<ul><li><strong><a href="https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH?dchild=1&amp;keywords=AMD+Ryzen+9+5900X&amp;qid=1620762883&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=eb7d731ad11a513496bb179bb693aca3&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Ryzen 9 5900x</a></strong> if money is not a problem ( best for mixed-use). <em>Maybe it&#8217;s a bit overkill, but no need to upgrade later.</em></li><li><a href="https://www.amazon.com/AMD-Ryzen-5600X-12-Thread-Processor/dp/B08166SLDF?dchild=1&amp;keywords=AMD+Ryzen+9+5600X&amp;qid=1620737425&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburstuk-20&amp;linkId=e4328c99cac552b88015812b8f616447&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener"><strong>Ryzen 5 5600</strong>x</a> (best CPU for gaming)</li><li><strong><a href="https://www.amazon.com/Intel-i5-11600K-Desktop-Processor-Unlocked/dp/B08X67YZBL?dchild=1&amp;keywords=intel+11600k&amp;qid=1620740308&amp;sr=8-1&amp;linkCode=ll1&amp;tag=technoburst-01-20&amp;linkId=1e2e09b9ccc2ffc6cb01bf69118d95eb&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener">Intel Core i5-11600K</a></strong> if you are ok with high temperature and don&#8217;t want to overspend. ( best budget pick, best value CPU)</li></ul>
+
+
+
+<p>It does not mean you can&#8217;t use other processors. Moreover, for gaming GPU is much more important, than CPU, so almost any $200+ CPU will be fine. But if you use other apps between games, I would recommend buying one from the list above, they are very good.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/asus-rog-strix-rtx-3070-8gb-oc-gaming-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2021/05/20210504_180109.mp4" length="32999069" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
