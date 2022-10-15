@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>harry, Author at The Technoburst</title>
+	<atom:link href="/author/harry/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/harry/</link>
+	<description>PC Building Guides and computer components reviews</description>
+	<lastBuildDate>Fri, 28 May 2021 18:40:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/cropped-technoburst-icon-rounded-32x32.png</url>
+	<title>harry, Author at The Technoburst</title>
+	<link>/author/harry/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Intel Core i9 11900K vs 10900K</title>
+		<link>/intel-core-i9-11900k-vs-10900k/</link>
+					<comments>/intel-core-i9-11900k-vs-10900k/#respond</comments>
+		
+		<dc:creator><![CDATA[harry]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2021 13:31:44 +0000</pubDate>
+				<category><![CDATA[PC Components]]></category>
+		<guid isPermaLink="false">/?p=2032</guid>
+
+					<description><![CDATA[Introduction Intel’s new flagship processor, the 11900k has been recently released and aims to improve on its prior generation of processors. This new processor also seeks to compete with its major competitor the AMD Ryzen 9 5900x. This article will compare and review two Intel processor’s the 10th Generation vs. 11th Generation taking all the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 id="h-introduction">Introduction</h2>
+
+
+
+<p>Intel’s new flagship processor, the 11900k has been recently released and aims to improve on its prior generation of processors. This new processor also seeks to compete with its major competitor the AMD Ryzen 9 5900x.</p>
+
+
+
+<div class="aawp">
+
+    <table class="aawp-table">
+        <thead>
+            <tr>
+                                <th class="aawp-table__th-thumb">Preview</th>
+                <th class="aawp-table__th-title">Product</th>
+                                    <th class="aawp-table__th-rating">Rating</th>
+                                                    <th class="aawp-table__th-pricing">Price</th>
+                                <th class="aawp-table__th-links"></th>
+            </tr>
+        </thead>
+        <tbody>
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B086MHSTVD" data-aawp-product-title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz Unlocked  LGA1200  Intel 400 Series Chipset  125W" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41MI611RvgL.jpg" alt="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..."
+                       rel="nofollow noopener sponsored" target="_blank">Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B086MHSTVD?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">982 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;345.99</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B086MHSTVD&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B08X6PPTTH" data-aawp-product-title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz Unlocked LGA1200  Intel 500 Series & Select 400 Series Chipset  125W" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41X1tjC36zL.jpg" alt="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..."
+                       rel="nofollow noopener sponsored" target="_blank">Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08X6PPTTH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">898 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;361.85</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08X6PPTTH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08164VTWH" data-aawp-product-title="AMD Ryzen 9 5900X 12-core 24-Thread Unlocked Desktop Processor" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg" alt="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"
+                       rel="nofollow noopener sponsored" target="_blank">AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08164VTWH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">6,844 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;399.00</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08164VTWH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                </tbody>
+    </table>
+
+</div>
+
+
+
+
+<p>This article will compare and review two Intel processor’s the 10<sup>th</sup> Generation vs. 11<sup>th</sup> Generation taking all the relevant statistics and performance benchmarks which are all so crucial in processor consideration. This review will look at both workstation and gaming performance of the processors.</p>
+
+
+
+<figure class="wp-block-image"><img width="1200" height="675" src="/wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c.jpeg" alt="11th generation of intel processors" class="wp-image-2040" srcset="/wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c.jpeg 1200w, /wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c-300x169.jpeg 300w, /wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c-1024x576.jpeg 1024w, /wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c-768x432.jpeg 768w, /wp-content/uploads/2021/04/https-i-gadgets360cdn-com-large-intel_11th_gen_c-978x550.jpeg 978w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<h2 id="h-intel-vs-amd">Intel vs. AMD</h2>
+
+
+
+<p>In the processor industry, Intel and AMD are both at the front and take center stage in terms of largest market shares. Since time in memorial, Intel have AMD have each taken turns holding the top spot in the processor game.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1200" height="700" src="/wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020-.jpeg" alt="Intel 11th vs. AMD ryzen" class="wp-image-2041" srcset="/wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020-.jpeg 1200w, /wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020--300x175.jpeg 300w, /wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020--1024x597.jpeg 1024w, /wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020--768x448.jpeg 768w, /wp-content/uploads/2021/04/https-premiumbuilds-com-wp-content-uploads-2020--943x550.jpeg 943w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p>The new release of the i9 11900k provides a new opportunity for Intel to <strong>challenge the new Ryzen 5900x</strong>. This processor from AMD’s Ryzen-5000 series has recently interrupted Intel’s recent dominant reign in the CPU gaming industry. Apple Silicon, despite its impressive performances, is restricted to the Apple ecosystem, making direct comparisons on performance difficult. Could this be the beginning of Intel’s inevitable comeback?</p>
+
+
+
+<p>Since its release in 2020, the Intel i9 10900k has been regarded as one of their most powerful processors to date. Being confirmed as Intel’s flagship product, comparisons between the two processors need to be made. The following are the comparisons between the specification of the 10900k, 11900k and the AMD Ryzen 9 5900x.</p>
+
+
+
+<h2 id="h-11900k-vs-10900k-specifications">11900K vs. 10900K Specifications</h2>
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B086MHSTVD" data-aawp-product-title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz Unlocked  LGA1200  Intel 400 Series Chipset  125W" data-aawp-click-tracking="title">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Sale</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41MI611RvgL.jpg" alt="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B086MHSTVD?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a>
+                                    <div class="aawp-product__reviews">982 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+            Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz...        </a>
+        <div class="aawp-product__description">
+            <ul><li>10 Cores / 20 Threads</li><li>Socket type LGA 1200</li><li>Up to 5. 3 GHz unlocked</li><li>Compatible with Intel 400 series chipset based motherboards</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;43.00</span>
+                            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;345.99</span>
+            
+                    </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B086MHSTVD&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-id="B08X6PPTTH" data-aawp-product-title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz Unlocked LGA1200  Intel 500 Series & Select 400 Series Chipset  125W" data-aawp-click-tracking="title">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41X1tjC36zL.jpg" alt="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..."  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08X6PPTTH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">898 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+            Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz...        </a>
+        <div class="aawp-product__description">
+            <ul><li>The processor features Socket LGA-1200 socket for installation on the PCB</li><li>16 MB of L3 cache rapidly retrieves the most used data available to improve system performance</li><li>14 nm design offers great efficiency for computing, delivers nimble processing with balanced cost,...</li><li>To boost graphics and visual quality, the chipset has a built in Intel UHD Graphics 750 controller. Supports...</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;361.85</span>
+            
+                    </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08X6PPTTH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08164VTWH" data-aawp-product-title="AMD Ryzen 9 5900X 12-core 24-Thread Unlocked Desktop Processor" data-aawp-click-tracking="title">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Sale</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg" alt="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"  />
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08164VTWH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a>
+                                    <div class="aawp-product__reviews">6,844 Reviews</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+            AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor        </a>
+        <div class="aawp-product__description">
+            <ul><li>The world's best gaming desktop processor, with 12 cores and 24 processing threads</li><li>Can deliver elite 100-plus FPS performance in the world's most popular games</li><li>Cooler not included, high-performance cooler recommended. Max Temperature- 90°C</li><li>4.8 GHz Max Boost, unlocked for overclocking, 70 MB of cache, DDR-3200 support</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;170.99</span>
+                            
+                            <span class="aawp-product__price aawp-product__price--current">&#36;399.00</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08164VTWH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+
+<figure class="wp-block-table"><table class="table"><thead><tr><th scope="col">
+Specs
+</th><th scope="col">
+Intel i9-10900K
+</th><th scope="col">
+Intel i9-11900K
+</th><th scope="col">
+AMD Ryzen 9 5900X
+</th></tr></thead><tbody><tr><td>
+Speed (Boost)
+</td><td>
+3.70 GHz (5.30 GHz)
+</td><td>
+3.50 GHz (5.30 GHz)
+</td><td>
+3.70 GHz (4.80 GHz)
+</td></tr><tr><td>
+Cores (Threads)
+</td><td>
+10 (20)
+</td><td>
+8 (16)
+</td><td>
+12 (24)
+</td></tr><tr><td>
+L3 Cache
+</td><td>
+20 MB
+</td><td>
+16 MB
+</td><td>
+64 MB
+</td></tr><tr><td>
+L2 Cache (per core)
+</td><td>
+256 KB
+</td><td>
+512 KB
+</td><td>
+512 KB
+</td></tr><tr><td>
+L1 Cache (per core)
+</td><td>
+64 KB
+</td><td>
+96 KB
+</td><td>
+64 KB
+</td></tr><tr><td>
+TDP
+</td><td>
+125 W
+</td><td>
+125 W
+</td><td>
+105W
+</td></tr><tr><td>
+process size
+</td><td>
+14 nm
+</td><td>
+14 nm
+</td><td>
+7nm
+</td></tr><tr><td>
+RRP
+</td><td>
+$488
+</td><td>
+$539
+</td><td>
+$549
+</td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1050" height="509" src="/wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb.png" alt="11900K vs. 10900K Specifications" class="wp-image-2042" srcset="/wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb.png 1050w, /wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb-300x145.png 300w, /wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb-1024x496.png 1024w, /wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb-768x372.png 768w, /wp-content/uploads/2021/04/https-i-pcmag-com-imagery-articles-068quxer4gmjb-1000x485.png 1000w" sizes="(max-width: 1050px) 100vw, 1050px" /></figure>
+
+
+
+<h2 id="h-clock-speed">Clock Speed</h2>
+
+
+
+<p>Clock speed is one of the most crucial factors that determine gaming performance. However, the lack of significant improvement in clock speeds from the previous generation is among the first things that come to mind when comparing the two processors. The base clock of the 10900k is 3.7 GHz and boosts up to 5.3 GHz under heavy workloads. This is faster than the base clock of the 11900k which is only 3.5GHz<strong>. The 11900k has a base clock of 3.5 GHz and a boost clock of 5.3 GHz</strong>. This is especially a sweet deal for the gaming community but the minimalization on improvement might hint at Intel prioritizing what sells their processors, gaming. The 11900k, like all new generation processors, rely on architectural improvements, such as cache, as the major driving force behind performance improvements.</p>
+
+
+
+<p>Both CPUs though, guarantee an advantage over opponents with the fast response times and seamless gameplay even with increased game pacing and CPU loads.</p>
+
+
+
+<p>Intel has also packaged a new Thermal Boost technology meaning that the overclockers can be able to stretch the performance of the processor. This however should be taken with a grain of salt as overclocking should always be done at the risk of damaging your processor.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="2000" height="1125" src="/wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq.jpeg" alt="intel core processor 1" class="wp-image-2039" srcset="/wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq.jpeg 2000w, /wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq-300x169.jpeg 300w, /wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq-1024x576.jpeg 1024w, /wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq-768x432.jpeg 768w, /wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq-1536x864.jpeg 1536w, /wp-content/uploads/2021/04/https-miro-medium-com-max-4000-0dzmeqbuhsflnevq-978x550.jpeg 978w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<h2 id="h-cores-and-threads">Cores and Threads</h2>
+
+
+
+<p>In terms of computer performance, more cores mean increased performance for applications that depend on multiple-core performance such as 3-d rendering, video editing and music production. Games are also using more cores but this still lags behind clock speed when it comes to gaming performance.</p>
+
+
+
+<p>Both these CPUs are packaged with a hyper-thread technology. A single core is basically split into virtual cores which are then used to increase the processing power of the core. These virtual cores manage to double the processing power allowing them to run multiple applications in the same core without risk in performance drop.</p>
+
+
+
+<p>The 10<sup>th</sup> Gen processor saw a significant improvement in multi-core performance, with the basic models being packaged with more threads than the flagship processor of the previous generation. <strong>The 10900k has 10 cores and 20 threads</strong>, these are sufficient enough to handle most gaming tasks. It also has additional power for those heavy workstation tasks. The <strong>11900k has 2 fewer cores and 4 fewer threads</strong>. This is a <strong>shift in Intel’s strategy</strong> opting for efficiency in designing and use of their chips. This is because most games don’t even require the full core count of 10900k.</p>
+
+
+
+<p>As a result, the 10900k is the preferred option for workstations due to a larger core and thread count. While better gaming performance and the energy consumption is the selling point for the 11900k, having more cores future-proofs your computer saving you the need to upgrade your setup after only a few years.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="2560" height="1707" src="/wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up.jpeg" alt="intel core processor 2" class="wp-image-2043" srcset="/wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up.jpeg 2560w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-300x200.jpeg 300w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-1024x683.jpeg 1024w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-768x512.jpeg 768w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-1536x1024.jpeg 1536w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-2048x1366.jpeg 2048w, /wp-content/uploads/2021/04/https-i2-wp-com-todayinbermuda-com-wp-content-up-825x550.jpeg 825w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+
+
+
+<h2 id="h-cpu-architecture">CPU Architecture</h2>
+
+
+
+<p>After 5 years of arguably stagnant architecture from Intel, the new 11900k saw the launch of Intel’s new rocket lake architecture. This new architecture saw the introduction of the new <strong>PCIe 4.0</strong> connection which is also backwards compatible. This means it can work with the older LGA 1200 socket or the new X590 chipset which is still in development. This makes it also able to support the newer <strong>DDR-3200 RAM</strong> memory. Double Data Rate RAM allow for sending signals to the memory twice in a clock cycle making processing faster. This is similar to AMD Ryzen which supports the same features.</p>
+
+
+
+<p>The chip is built using <strong>14 nm chips</strong> offering improvement from the previous 10900k with two extra cores and a much faster clock speed. The new chip also supports DDR4-2933 RAM memory.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1680" height="821" src="/wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202.jpeg" alt="intel 11th gen architecture" class="wp-image-2044" srcset="/wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202.jpeg 1680w, /wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202-300x147.jpeg 300w, /wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202-1024x500.jpeg 1024w, /wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202-768x375.jpeg 768w, /wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202-1536x751.jpeg 1536w, /wp-content/uploads/2021/04/https-www-techspot-com-images2-news-bigimage-202-1000x489.jpeg 1000w" sizes="(max-width: 1680px) 100vw, 1680px" /></figure>
+
+
+
+<p>The amount of L3 cache is lower in the new chip as compared to the 10900k, but despite this, the amount allocated to each core is basically the same due to the reduced number of cores. The amount of L2 cache memory was increased by 1005 in the newer 11900k to 512Kb and Level 1 Cache increased to 96kb. This was compared to 256Kb and 64Kb in the 10900k for level 2 and 1 cache respectively. This is to make gameplay much smoother due to the increased minimums. The Xe architecture also delivers 50% greater integrated graphics power.</p>
+
+
+
+<h2 id="h-performance-benchmarks">Performance Benchmarks</h2>
+
+
+
+<p>The reduced core count of the 11900k as compared to the 10900k makes it disadvantageous to a great majority of workstation tasks. These applications rely on a multicore performance and this is where the reduced core count comes to bite it. The i9-11900k when benchmarked ranked below&nbsp; both the 10900k as well as AMD’s Ryzen CPU. It was 4% less effective in comparison to the 10900k and 28% less efficient than AMD’s CPU. The processor also shows significantly reduced and slower render time in the ADOBE 4K and blender. This processor although excelled in processes requiring single core performance.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="674" height="340" src="/wp-content/uploads/2021/04/https-www-techpowerup-com-img-hl6rccf5j8fwznir-j.jpeg" alt="intel i9-11900k vs 10900k performance Benchmarks" class="wp-image-2045" srcset="/wp-content/uploads/2021/04/https-www-techpowerup-com-img-hl6rccf5j8fwznir-j.jpeg 674w, /wp-content/uploads/2021/04/https-www-techpowerup-com-img-hl6rccf5j8fwznir-j-300x151.jpeg 300w" sizes="(max-width: 674px) 100vw, 674px" /></figure>
+
+
+
+<p>The specs before launch suggested that the newer <strong>11900k had a 32% greater efficiency as compared to the 10900k</strong>. However, the new 11900k underperforms the previous generation chips in a few of the tests ran. Lower FPS was seen in games such as The Shadow of the Tomb Raider and Counter-Strike: GO. It, however, narrowly produces higher FPS in Far Cry 5. </p>
+
+
+
+<p>Given how new the chip is, this could be however be as a result of compatibility issues. Further BIOS and firmware updates could in theory unlock the true potential of this chip.</p>
+
+
+
+<h2 id="h-verdict">Verdict</h2>
+
+
+
+<p>As at the time of this writing, the assessment is that it all depends on the needs of the consumer. If you are someone who just does some light gaming on your computer but need the raw horsepower, then there is no need to shift from the older 10900k. This is because the higher number of cores and threads favor workstation applications that depend on CPU parallel processing. If you are however looking for a gaming experience, given how new the chip is, my advice is to <strong>wait until firmware and BIOS updates</strong> reveal the potential of the chip.</p>
+
+
+
+<div class="aawp">
+
+    <table class="aawp-table">
+        <thead>
+            <tr>
+                                <th class="aawp-table__th-thumb">Preview</th>
+                <th class="aawp-table__th-title">Product</th>
+                                    <th class="aawp-table__th-rating">Rating</th>
+                                                    <th class="aawp-table__th-pricing">Price</th>
+                                <th class="aawp-table__th-links"></th>
+            </tr>
+        </thead>
+        <tbody>
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B086MHSTVD" data-aawp-product-title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz Unlocked  LGA1200  Intel 400 Series Chipset  125W" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41MI611RvgL.jpg" alt="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B086MHSTVD?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz..."
+                       rel="nofollow noopener sponsored" target="_blank">Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B086MHSTVD?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">982 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;345.99</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B086MHSTVD&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--css-adjust-image-large"  data-aawp-product-id="B08X6PPTTH" data-aawp-product-title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz Unlocked LGA1200  Intel 500 Series & Select 400 Series Chipset  125W" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..." rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41X1tjC36zL.jpg" alt="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..."  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08X6PPTTH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz..."
+                       rel="nofollow noopener sponsored" target="_blank">Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz...                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08X6PPTTH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">898 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                <span class="aawp-product__price">&#36;361.85</span>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08X6PPTTH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                    
+            <tr class="aawp-product aawp-product--ribbon aawp-product--sale aawp-product--css-adjust-image-large"  data-aawp-product-id="B08164VTWH" data-aawp-product-title="AMD Ryzen 9 5900X 12-core 24-Thread Unlocked Desktop Processor" data-aawp-click-tracking="title">
+                                <td class="aawp-table__td-thumb" data-label="Preview">
+                    <a href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor" rel="nofollow noopener sponsored" target="_blank">
+                        <img class="aawp-product__img" src="https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg" alt="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"  />
+                    </a>
+                </td>
+                <td class="aawp-table__td-title" data-label="Product">
+                    <a class="aawp-product__title" href="https://www.amazon.com/dp/B08164VTWH?tag=technoburst-01-20&linkCode=ogi&th=1&psc=1" title="AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"
+                       rel="nofollow noopener sponsored" target="_blank">AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor                    </a>
+                </td>
+                                    <td class="aawp-table__td-rating" data-label="Rating">
+                                                    <span class="aawp-product__rating"><a class="aawp-star-rating aawp-star-rating--small aawp-star-rating--v1" href="https://www.amazon.com/product-reviews/B08164VTWH?tag=technoburst-01-20" title="Reviews on Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 100%;"></span></a></span>
+                                                                            <span class="aawp-product__reviews">6,844 Reviews</span>
+                                            </td>
+                                                    <td class="aawp-table__td-pricing" data-label="Price">
+                                                                                                    <span class="aawp-product__price">&#36;399.00</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                <td class="aawp-table__td-links" data-label="Link">
+                    <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08164VTWH&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
+            </tr>
+
+                </tbody>
+    </table>
+
+</div>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/intel-core-i9-11900k-vs-10900k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
