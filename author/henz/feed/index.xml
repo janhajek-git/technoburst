@@ -2815,7 +2815,7 @@
     <div class="aawp-product__footer">
 
         <div class="aawp-product__pricing">
-                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;350.00</span>
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;250.00</span>
                             
                             <span class="aawp-product__price aawp-product__price--current">&#36;2,749.99</span>
             
@@ -3212,7 +3212,7 @@
                                                                             <span class="aawp-product__reviews">10,688 Reviews</span>
                                             </td>
                                                     <td class="aawp-table__td-pricing" data-label="Price">
-                                                                                                    <span class="aawp-product__price">&#36;24.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                                                                                    <span class="aawp-product__price">&#36;20.50</span>                    </td>
                                 <td class="aawp-table__td-links" data-label="Link">
                     <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B01G5I6MUW&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
             </tr>
@@ -3921,11 +3921,11 @@
     <div class="aawp-product__footer">
 
         <div class="aawp-product__pricing">
-                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;7.00</span>
+                                                                <span class="aawp-product__price aawp-product__price--saved">&#8722;&#36;11.49</span>
                             
-                            <span class="aawp-product__price aawp-product__price--current">&#36;24.99</span>
+                            <span class="aawp-product__price aawp-product__price--current">&#36;20.50</span>
             
-            <a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+                    </div>
 
                 <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B01G5I6MUW&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>
             </div>
@@ -4173,7 +4173,7 @@ https://www.amazon.com/Corsair-Premium-Magnetic-Levitation-CO-9050075-WW/dp/B076
                                                                             <span class="aawp-product__reviews">10,688 Reviews</span>
                                             </td>
                                                     <td class="aawp-table__td-pricing" data-label="Price">
-                                                                                                    <span class="aawp-product__price">&#36;24.99</span><a class="aawp-check-prime" href="https://www.amazon.com/gp/prime/?tag=technoburst-01-20" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>                    </td>
+                                                                                                    <span class="aawp-product__price">&#36;20.50</span>                    </td>
                                 <td class="aawp-table__td-links" data-label="Link">
                     <a class="aawp-button aawp-button--buy aawp-button aawp-button--blue rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B01G5I6MUW&#038;Quantity.1=1&#038;tag=technoburst-01-20" title="Buy now" target="_blank" rel="nofollow noopener sponsored">Buy now</a>                </td>
             </tr>
