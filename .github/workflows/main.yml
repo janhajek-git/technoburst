@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.asianfriendly.com
         username: git-actions
-        password: ${{ secrets.xulsJUGb6-En }}
+        password: ${{ secrets.password }}
