@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
         server: ftp.asianfriendly.com
-        username: git-actions
+        username: git-actions@technoburst.com
         password: ${{ secrets.password }}
