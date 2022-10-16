@@ -14,3 +14,4 @@ jobs:
         server: ftp.asianfriendly.com
         username: git-actions@technoburst.com
         password: ${{ secrets.password }}
+        protocol: ftps
