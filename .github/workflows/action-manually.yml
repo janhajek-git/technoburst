@@ -1,0 +1,17 @@
+on: workflow_dispatch
+name: 🚀 Deploy website manually
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.3.2
+      with:
+        server: ftp.asianfriendly.com
+        username: git-actions@technoburst.com
+        password: ${{ secrets.password }}
+        protocol: ftps
